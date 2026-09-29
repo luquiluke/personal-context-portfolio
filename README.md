@@ -6,7 +6,25 @@ Contale una vez a la IA qué hacés, para quién trabajás y cómo funciona tu n
 
 Este kit te ayuda a armar **diez documentos breves** sobre tu actividad. Está escrito en español rioplatense, con voseo, y podés usarlo por tu cuenta o durante una sesión con un consultor. No necesitás programar ni saber usar GitHub.
 
-**[Empezá acá →](GETTING-STARTED.md)**
+## Dejá que la IA te guíe
+
+Abrí una conversación nueva en ChatGPT o Claude y pegá este mensaje:
+
+```text
+Quiero que me ayudes a armar y dejar listo para usar mi contexto profesional o de negocio con este kit:
+https://github.com/luquiluke/personal-context-portfolio
+
+Leé la guía completa de inicio para la IA, que contiene las instrucciones y las diez plantillas:
+https://raw.githubusercontent.com/luquiluke/personal-context-portfolio/main/INICIAR-CON-IA.md
+
+Seguí esa guía para entrevistarme, redactar y revisar conmigo los documentos, y preparar los archivos e instrucciones para usarlos en ChatGPT o Claude.
+Hablame de vos, en español rioplatense. Haceme una pregunta por vez y empezá por mi actividad. No inventes información sobre mí.
+Si no podés leer la guía completa desde el enlace, pedime que adjunte INICIAR-CON-IA.md o pegue su contenido. No asumas que la leíste.
+```
+
+La IA te entrevista y prepara tu kit a partir de tus respuestas. No necesitás completar plantillas ni configurar GitHub antes de empezar. Si no puede abrir el enlace, [abrí la guía](INICIAR-CON-IA.md), descargala con **Download raw file** y adjuntala al chat; también podés copiar y pegar su contenido.
+
+**[Ver los pasos y qué vas a recibir →](GETTING-STARTED.md)**
 
 ## Para quién es
 

@@ -1,5 +1,32 @@
 # Empezá por acá
 
+## Opción recomendada: pedile a la IA que lo arme con vos
+
+1. Abrí una conversación nueva en ChatGPT o Claude.
+2. Copiá y pegá el [mensaje de inicio del repositorio](README.md#dejá-que-la-ia-te-guíe).
+3. Respondé las preguntas, de a una. La IA prepara cada documento y te lo muestra para que lo corrijas.
+4. Al terminar, recibís tus archivos de contexto, instrucciones listas para tu asistente y una guía breve para usarlos.
+
+El enlace apunta a [INICIAR-CON-IA.md](INICIAR-CON-IA.md): un único archivo con el proceso completo y las diez plantillas. La IA no necesita recorrer todas las carpetas ni usar los perfiles ficticios como información sobre vos.
+
+### Si la IA no puede abrir el enlace
+
+Abrí [el archivo de inicio en GitHub](https://github.com/luquiluke/personal-context-portfolio/blob/main/INICIAR-CON-IA.md), usá **Download raw file** y adjuntalo al chat. Si no podés adjuntar archivos, abrí la vista **Raw**, copiá el texto y pegalo. Agregá:
+
+> Este es el archivo de inicio del kit. Usalo para guiarme y armar mis documentos. Empezá por preguntarme a qué me dedico.
+
+Si el chat limita el tamaño del mensaje, pegalo en partes numeradas y pedile que espere hasta que escribas «Ya envié la guía completa». No necesitás descargar todo el repositorio ni conectar tu cuenta de GitHub.
+
+### Qué hace la IA y qué hacés vos
+
+La IA organiza la entrevista, redacta, incorpora tus correcciones y prepara la entrega. Vos aportás los datos y aprobás los documentos. Si puede generar archivos, te los entrega para descargar; si no, te da bloques de texto identificados para guardar.
+
+Para usar el resultado en un proyecto de ChatGPT o Claude, normalmente vas a crear el proyecto, agregar los archivos y pegar las instrucciones que te prepare. La IA te guía en esos pasos; sólo puede realizarlos por vos si dispone de herramientas y permisos adecuados. Entregar un enlace al repositorio no crea por sí solo un proyecto ni una memoria permanente.
+
+Podés decir «hagamos una versión breve» para empezar con identidad, estilo y límites, o «pausamos acá» para recibir tus documentos y un resumen que te permita retomar.
+
+## Opción manual: trabajá plantilla por plantilla
+
 Elegí una tarea en la que quieras recibir mejor ayuda: responder una consulta, preparar una propuesta o acomodar tu semana. Ese caso te va a servir para probar el resultado.
 
 ## 1. Prepará tu carpeta privada

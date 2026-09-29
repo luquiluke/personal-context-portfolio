@@ -17,6 +17,11 @@ La idea de una carpeta de contexto portable, los diez módulos, la entrevista co
 - Se eliminan las referencias a una aplicación web que el original no enlazaba ni incluía.
 - Se agregan estado, fecha, responsable y audiencia para distinguir borradores de contexto aprobado.
 - Se aclara que adjuntar archivos no los sincroniza y que el contexto no concede permisos para operar cuentas o enviar mensajes.
+- Se agrega un mensaje de inicio para apuntar ChatGPT o Claude al repositorio y un [archivo único de configuración guiada](INICIAR-CON-IA.md) con entrevista, plantillas y entrega. Puede compartirse por enlace, adjunto o texto pegado.
+
+## Mantener la guía de inicio para IA
+
+`INICIAR-CON-IA.md` reúne las [instrucciones de configuración](interview-protocol/repo-setup.md), el protocolo de entrevista y las diez plantillas. Después de editar esas fuentes, ejecutá `python scripts/build-ai-starter.py` desde la raíz del repositorio. Con `--check` podés comprobar que la versión compartible coincida con las fuentes. Python sólo hace falta para mantener el repositorio; los clientes no necesitan instalarlo.
 
 ## Correspondencia de ejemplos
 

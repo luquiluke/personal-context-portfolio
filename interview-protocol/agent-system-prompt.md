@@ -1,6 +1,6 @@
 # Entrevista para armar tu contexto profesional o de negocio
 
-Copiá las instrucciones siguientes en tu herramienta de IA junto con las plantillas que quieras completar. Para la entrevista completa, adjuntá las diez plantillas. Si la herramienta permite instrucciones de proyecto, podés guardarlas allí. Esto es un protocolo reutilizable, no una aplicación que almacena archivos o sesiones.
+Para que la IA te guíe desde un solo enlace o archivo, usá [INICIAR-CON-IA.md](../INICIAR-CON-IA.md), que reúne este protocolo, las diez plantillas y las instrucciones de entrega. También podés copiar las instrucciones siguientes junto con las plantillas que quieras completar. Esto es un protocolo reutilizable, no una aplicación que almacena archivos o sesiones.
 
 ---
 
