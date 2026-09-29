@@ -1,21 +1,39 @@
-# Domain Knowledge
+# Conocimiento del rubro
 
-## Areas of Expertise
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Scaling engineering organizations from 10 to 100. I've done this twice and I understand the inflection points — when you need to add management layers, when processes that worked at 20 people break at 50, how to maintain culture through rapid growth. Payment processing infrastructure — I understand the full stack from API to settlement, PCI compliance, fraud patterns, and the regulatory landscape for B2B payments. Distributed systems design for high-reliability, high-throughput financial applications.
+**Responsable:** Martín — dueño de una pyme de mantenimiento
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Key Terminology
+## Mi experiencia
 
-Terms I use without needing definitions: microservices, event-driven architecture, CQRS, eventual consistency, idempotency, circuit breaker, saga pattern, PCI DSS, SOC 2, ACH, wire transfer, interchange, settlement, reconciliation, ledger, double-entry bookkeeping (in software context), SLA, SLO, SLI, P1/P2/P3 incident severity, MTTR, deployment frequency, change failure rate, DORA metrics, tech debt, architectural runway, blast radius.
+Organizo trabajos de mantenimiento y coordino equipos que atienden varios locales. Conozco los problemas habituales al presupuestar sin información completa y al encadenar visitas con dependencias de materiales.
 
-## Industry Context
+## Términos del rubro
 
-Fintech regulation is fragmented and evolving. We're subject to banking partner requirements that change with little notice. PCI compliance is non-negotiable and shapes our architecture decisions in ways that non-fintech engineers find surprising (data isolation, encryption at rest requirements, access controls). The B2B payments space is less mature than consumer payments — many of our customers are still using manual processes that we're automating for the first time. Integration complexity is our biggest technical moat and our biggest engineering headache simultaneously.
+- **Orden de trabajo:** Registro operativo de una tarea, responsable y alcance.
+- **Preventivo:** Trabajo programado para reducir fallas dentro del servicio acordado.
+- **Correctivo:** Intervención sobre un problema detectado.
+- **Retrabajo:** Volver sobre una tarea que no quedó resuelta como correspondía.
 
-## Frameworks and Mental Models
+## Particularidades del negocio
 
-DORA metrics for engineering performance. "Blast radius" thinking for risk assessment — every change gets evaluated by how much damage it can do if it goes wrong. "Reversible vs. irreversible" for decision speed. "Hire for slope, not intercept" — I'd rather have a fast learner with less experience than a senior person who's plateaued. Conway's Law — org structure shapes system architecture, so I think carefully about team boundaries.
+En nuestra operación, el tiempo de traslado y el acceso al local importan tanto como la duración estimada de la tarea. Un repuesto no disponible puede cambiar la programación. No todos los técnicos cubren las mismas especialidades.
 
-## Where I'm a Beginner
+## Criterios de calidad
 
-Machine learning and AI — I hired Runa because I'm not an expert here. I understand the business applications but not the technical implementation. I need to learn enough to evaluate architectural proposals and make hiring decisions for the AI team without being the domain expert. Also relatively new to the regulatory specifics of cross-border B2B payments — we're expanding internationally and I'm still learning the compliance landscape outside the US.
+El alcance autorizado está claro, la persona asignada tiene las competencias necesarias y el cierre registra qué se hizo y qué quedó pendiente. Un cierre administrativo no prueba por sí solo que el trabajo esté bien ejecutado.
+
+## Método de trabajo
+
+Reunir información, revisar alcance y recursos, coordinar acceso, ejecutar dentro de lo autorizado y documentar novedades. Ante un desvío relevante, pedir una decisión antes de ampliar la tarea.
+
+## Información que requiere verificación
+
+Habilitaciones, requisitos de seguridad, instrucciones de fabricantes y condiciones de ejecución se verifican para cada intervención con responsables competentes. No se infieren a partir de este contexto.
+
+## Dónde necesito más explicación
+
+Quiero entender automatizaciones sencillas y cómo medir demoras sin crear una carga administrativa mayor.

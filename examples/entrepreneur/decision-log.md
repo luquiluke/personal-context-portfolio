@@ -1,35 +1,44 @@
-# Decision Log
+# Registro de decisiones
 
-## How I Make Decisions
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Fast and instinctive for business operations. Slow and deliberate for anything that affects client quality or my reputation. I trust my gut on people — whether to take a client, whether a project is a good fit — and I'm usually right. For strategic decisions about my own business direction, I talk it through with Rachel (my coach) or my accountability group before committing. I'm a "decide and commit" person, not a "keep my options open" person.
+**Responsable:** Paula — dueña de una ferretería
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## What I Need Before Deciding
+## Cómo decido
 
-For client decisions: Do I like the founder? Is the problem interesting? Can I deliver something great in the timeline? Is the budget right? If all four are yes, I say yes. If any one is a clear no, I pass.
+Reviso demanda registrada, disponibilidad, costo y tiempo del equipo. Para una compra grande comparo alternativas y el efecto sobre otras compras previstas. No uso sólo el descuento como criterio.
 
-For business strategy decisions: What does this do to my revenue in the next 90 days? What does this do to my brand in the next year? Does this get me closer to the $500K solo practice or is it a detour?
+## Decisiones recientes
 
-For agent/tool decisions: Will this save me at least 2 hours per week? Can I build or implement it in a weekend? If both yes, I do it now. If it's a bigger lift, it goes on the Friday list.
+### Registrar pedidos antes de lanzar una tienda en línea
 
-## Recent Decisions
+**Fecha:** 2026-09-08.
+**Situación:** Las consultas por WhatsApp quedaban mezcladas con pedidos confirmados.
+**Opciones:** Abrir una tienda, seguir con mensajes o probar una planilla de pedidos.
+**Criterios:** Orden operativo, esfuerzo de mantenimiento y calidad de los datos.
+**Decisión y motivo:** Probar la planilla y asignar responsable por turno. Primero necesitamos cumplir bien el circuito actual.
+**Responsable:** Yo.
+**Resultado observado:** El equipo usa el registro en la prueba. La cobertura completa todavía no está verificada.
+**Revisión:** 2026-10-02.
 
-### Turned down a $40K project because the founder wanted committee-driven strategy
+### Posponer una compra por volumen
 
-A Series B SaaS company approached me for a full brand overhaul. Great budget, interesting product. But in the discovery call, the founder said he wanted me to present three positioning options to his leadership team and let them vote. That's how you get mediocre positioning — you average out every strong opinion until there's nothing left. I told him my process is opinionated: I do the research, I present one recommendation with a clear rationale, and we refine from there. He wanted the committee version. I walked away from $40K because delivering a bad outcome damages my reputation more than $40K helps my bank account.
+**Fecha:** 2026-09-21.
+**Situación:** Un proveedor ofreció mejores condiciones por una cantidad mayor.
+**Opciones:** Comprar el lote, comprar la cantidad habitual o esperar hasta revisar ventas.
+**Criterios:** Demanda registrada, espacio y dinero comprometido.
+**Decisión y motivo:** Mantener la cantidad habitual mientras reviso la rotación. No tenía evidencia suficiente para ampliar la compra.
+**Responsable:** Yo.
+**Resultado observado:** La compra se mantuvo dentro de lo previsto. No hay un resultado de rentabilidad medido para atribuirle.
+**Revisión:** 2026-10-15, junto con la selección de productos frecuentes.
 
-### Decided to build AI agents with Claude Code instead of no-code tools
+## Cómo manejo la incertidumbre
 
-I started with Zapier and Make for automation, and they handled basic workflows fine. But when I tried to build agents that needed judgment — my competitor monitor needs to decide what's actually worth flagging vs. noise — the no-code tools hit a wall. I spent a weekend learning Claude Code, rebuilt my competitor monitor, and the quality difference was immediate. The tradeoff was a steeper learning curve and less visual feedback, but the agents are dramatically better. I've since rebuilt everything in Claude Code and OpenClaw.
+Hago pruebas chicas cuando puedo. Si un dato afecta lo que prometemos al cliente, lo verifico antes de confirmar.
 
-## How I Handle Uncertainty
+## Decisiones abiertas
 
-I run cheap experiments. If I don't know whether a course will sell, I write a landing page and share it before I build the course. If I don't know whether an agent will work, I build the simplest version in an afternoon and test it with real data. I don't research my way to certainty — I build my way there. The information I need usually comes from doing the thing, not from thinking about the thing.
-
-## Who I Consult
-
-Rachel (coach) for business strategy and pricing decisions. My accountability group for reality checks and pattern matching — they're in similar businesses and see things I'm too close to. Amit (current client) has become a sounding board for my AI agent approach — he's technical and gives good feedback on what I'm building. For everything else, I talk it through with Claude and then make the call.
-
-## Current Open Decisions
-
-Whether to raise my project rate from $15K to $20K for brand strategy engagements. Rachel thinks I should. My pipeline is strong enough that I could afford to lose a few price-sensitive prospects. But I'm not sure if the market is there yet — most of my clients are Series A companies and $20K is a meaningful budget increase for them. Leaning toward raising it for new clients and honoring $15K for anyone currently in my pipeline.
+Definir criterios de reposición para veinte productos. Faltan registros consistentes y conteos; medir durante cuatro semanas antes de establecer metas.

@@ -1,53 +1,68 @@
-# Domain Knowledge
+# Conocimiento del rubro
 
-## What This File Is For
+## Para qué sirve
 
-What you know that a general-purpose AI doesn't. This file prevents agents from over-explaining things you already understand deeply and helps them avoid missing industry-specific context that shapes your work. It also captures areas where you're a beginner — so agents know when to explain more, not less.
+Captura tu experiencia y las particularidades de tu actividad que una IA generalista podría pasar por alto.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `domain-knowledge.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their domain knowledge file. This is about calibrating the right level of explanation — what they know cold, what they know enough to be dangerous, and what they'd want spelled out. Use what you've learned from previous files to ask informed questions about their domain.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+Distinguí experiencia personal, reglas internas y requisitos externos. No conviertas una práctica habitual en una obligación legal ni des por vigentes normas, precios o habilitaciones sin fuente y fecha.
 
-1. What are your areas of genuine expertise — the things you know deeply enough to teach someone?
-2. What's the jargon of your world? The terms you use every day that a general-purpose AI might over-explain or get wrong?
-3. Is there industry context that an outsider wouldn't know but that shapes everything in your work? Regulations, market dynamics, cultural norms in your field?
-4. Are there specific frameworks or mental models you use regularly to think through problems?
-5. Flip side — are there areas where you're a beginner and you'd actually want an AI to explain things more, not less?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After 4-5 questions.
+1. ¿Qué parte de tu actividad conocés en profundidad?
+2. ¿Qué suele entender mal alguien de afuera?
+3. ¿Qué términos usás todos los días?
+4. ¿Qué errores suelen causar retrabajo o reclamos?
+5. ¿Con qué criterios evaluás si un trabajo está bien hecho?
+6. ¿Qué información cambia seguido y necesitás verificar?
+7. ¿En qué temas preferís explicaciones paso a paso?
 
-**After drafting:** Present the draft. Ask the user if the expertise levels feel right — it's easy to overstate what you know or forget to mention an area where you'd appreciate more explanation.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Domain Knowledge
+# Conocimiento del rubro
 
-## Areas of Expertise
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-[Fields, industries, disciplines you know deeply. The things where you don't need background explained — you need the AI to operate at your level.]
+## Mi experiencia
 
-## Key Terminology
+[Qué conocés y qué tipo de problemas resolvés habitualmente.]
 
-[The jargon you use without needing definitions. Industry terms, acronyms, concepts that an AI should use naturally rather than defining or avoiding.]
+## Términos del rubro
 
-## Industry Context
+[Término: significado en tu actividad.]
 
-[Things an outsider wouldn't know that shape your work — regulatory environment, market dynamics, cultural norms, historical context. The background that makes your field different from how a generalist would imagine it.]
+## Particularidades del negocio
 
-## Frameworks and Mental Models
+[Estacionalidad, tiempos, proveedores, comportamientos de clientes o dependencias.]
 
-[Specific frameworks or thinking tools you use regularly. How you approach problems, organize information, or make sense of complex situations.]
+## Criterios de calidad
 
-## Where I'm a Beginner
+[Cómo revisás un resultado y qué errores evitás.]
 
-[Areas where you'd want more explanation, not less. Topics where you're learning and want an AI to teach rather than assume knowledge.]
+## Método de trabajo
+
+[Pasos o criterios que usás para resolver problemas.]
+
+## Información que requiere verificación
+
+[Normas, condiciones o datos variables; fuente, fecha y profesional responsable cuando corresponda.]
+
+## Dónde necesito más explicación
+
+[Temas que estás aprendiendo y cómo querés que te los expliquen.]
 ```

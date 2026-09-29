@@ -1,27 +1,38 @@
-# Tools and Systems
+# Herramientas y sistemas
 
-## Daily Tools
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-- **Slack** — primary communication. I'm in ~30 channels but only actively monitor about 8. I use the "Later" feature heavily.
-- **Google Calendar** — my calendar is my operating system. If it's not on the calendar, it's not happening.
-- **Linear** — I don't manage tickets but I check team velocity and project status dashboards weekly.
-- **Google Docs** — architecture decision records, planning docs, my weekly CEO update.
-- **1Password** — team credential management.
-- **Datadog** — platform monitoring. I check the main dashboard every morning.
-- **Greenhouse** — hiring pipeline. I review it every Friday.
+**Responsable:** Martín — dueño de una pyme de mantenimiento
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Data Sources
+## Herramientas habituales
 
-Engineering metrics in LinearB (cycle time, PR throughput, deployment frequency). Platform performance in Datadog. Incident history in PagerDuty. Financial data (headcount budget, vendor costs) in Google Sheets shared with finance. Hiring pipeline in Greenhouse. Team health surveys in Lattice.
+| Herramienta | Para qué la uso | Quién la mantiene |
+| --- | --- | --- |
+| Planilla de órdenes | Alcance, estado y asignación | Coordinadora |
+| Agenda compartida | Horarios confirmados | Coordinadora |
+| WhatsApp de trabajo | Coordinación y avisos de campo | Equipo |
+| Carpeta por cliente | Propuestas aceptadas y registros | Coordinadora y yo |
+| Sistema administrativo | Facturación y registros de cobro | Responsable administrativo con mi revisión |
 
-## Integrations and Connections
+## Fuentes de información
 
-PagerDuty → Slack for incident alerts. Datadog → PagerDuty for automated alerting. GitHub → Linear for PR-to-ticket linking. Greenhouse → Slack for hiring pipeline notifications.
+El alcance válido es la última propuesta aceptada. La planilla muestra el estado operativo y la agenda el horario. Los cobros se verifican en el registro administrativo; un mensaje del cliente no confirma por sí solo la recepción.
 
-## Evaluating or Planning to Adopt
+## Conexiones y pasos manuales
 
-Claude Code for the engineering org — exploring whether it can meaningfully accelerate development. Also looking at Copilot vs. Cursor for our engineers. Haven't made a decision — running a pilot with two teams this quarter.
+La coordinadora pasa a mano las novedades de campo a la orden. No hay sincronización automática entre WhatsApp, agenda y sistema administrativo.
 
-## Tried and Rejected
+## Acceso de la IA
 
-Jira — replaced with Linear. Confluence — replaced with Google Docs and Notion. OpsGenie — replaced with PagerDuty (better incident workflow). Notion for everything — we tried making Notion our single tool and it collapsed under its own weight. Now it's just the team wiki.
+Usamos extractos anonimizados para ordenar pendientes o redactar propuestas. No le damos por supuesto acceso al historial de clientes.
+
+## Herramientas en evaluación
+
+Podríamos evaluar un sistema de órdenes cuando el formato de trabajo ya esté definido y el equipo lo use de manera consistente.
+
+## Herramientas descartadas
+
+Dejamos una aplicación que exigía demasiados campos para registrar una visita. El equipo terminaba anotando por fuera y duplicando la carga.

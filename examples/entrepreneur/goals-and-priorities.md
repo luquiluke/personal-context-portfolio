@@ -1,27 +1,31 @@
-# Goals and Priorities
+# Objetivos y prioridades
 
-## Current Goals
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Hit $30K/month in revenue consistently. I'm at $22-25K now but it's lumpy — great months and slow months. I need to smooth it out, which means either more retainer clients or a productized offering.
+**Responsable:** Paula — dueña de una ferretería
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-Launch the consultant AI course before end of Q2. Even a small first cohort validates whether this is a real revenue line or a distraction.
+## Objetivos de los próximos 90 días
 
-Get my agent team to the point where I'm spending less than 2 hours per week on admin and ops. Right now it's more like 5-6 hours.
+| Resultado buscado | Situación actual | Meta | Fecha | Fuente y frecuencia de medición |
+| --- | --- | --- | --- | --- |
+| Dar seguimiento a cada pedido confirmado por WhatsApp | Registro actual incompleto; base por medir | Ningún pedido confirmado sin responsable ni estado al cierre | 2026-12-28 | Revisión diaria del registro y del canal |
+| Entender faltantes de productos frecuentes | No hay medición consistente | Medir veinte productos durante cuatro semanas antes de fijar una meta de reposición | 2026-11-13 | Sistema, conteo y lista de faltantes; semanal |
 
-## Longer-Term Goals
+## A un año
 
-Build Canopy Studio into a $500K/year solo practice within two years. No employees — just me and my agents. I want to prove that a one-person studio with an AI agent team can produce at the level of a small agency.
+Quiero que el equipo pueda continuar un pedido sin que yo recuerde cada conversación. Busco comprar con mejor información y pasar menos tiempo resolviendo diferencias evitables.
 
-Become a recognized voice on AI-augmented consulting. The LinkedIn content and the course are both serving this. I want to be the person other consultants think of when they think about using AI in their practice.
+## Cómo resuelvo tensiones
 
-## How I Think About Tradeoffs
+Cuido la disponibilidad de productos que realmente se venden antes que ampliar el catálogo por impulso. Prefiero confirmar una especificación antes que cerrar rápido una venta equivocada.
 
-Revenue now over brand building — I need to eat. But I protect Friday for non-billable work (agent building, content, business development) because that's what compounds. Speed over perfection for my own business operations. Quality over speed for client deliverables — my reputation is my entire sales pipeline. I'd rather turn down a client than deliver mediocre work.
+## Qué no priorizo ahora
 
-## What I'm NOT Prioritizing
+No vamos a abrir una tienda en línea ni incorporar entregas propias. Revisaremos esas opciones después de ordenar pedidos y stock.
 
-Hiring. Even a part-time contractor. I want to push the solo-plus-agents model as far as it can go before I add people. Also not prioritizing passive income products beyond the course — no templates, no ebooks, no subscription content. One thing at a time.
+## Cómo se vería una buena semana
 
-## What Success Looks Like
-
-By September: $30K/month is the floor, not the ceiling. Course has run once and I know whether to do it again. Agent team handles client onboarding and proposal drafting without my involvement. I'm working four days a week, not five, and making more than I did at five.
+Los pedidos tienen seguimiento, las compras se apoyan en registros y el equipo puede responder qué falta sin recorrer conversaciones viejas.

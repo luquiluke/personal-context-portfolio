@@ -1,29 +1,31 @@
-# Goals and Priorities
+# Objetivos y prioridades
 
-## Current Goals
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Ship Async Messaging V2 with our three pilot health systems before end of Q2. I need it live, adopted, and showing measurable improvement in patient-provider communication volume. This is the thing that determines whether this half was a success.
+**Responsable:** Lucía — arquitecta independiente
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-Get the notification preferences overhaul into production by end of Q2 as well — it's the other half of the engagement story.
+## Objetivos de los próximos 90 días
 
-## Longer-Term Goals
+| Resultado buscado | Situación actual | Meta | Fecha | Fuente y frecuencia de medición |
+| --- | --- | --- | --- | --- |
+| Reducir tiempo de preparación de propuestas estándar | Promedio ilustrativo: 3 horas en las últimas 4 propuestas | 2 horas, manteniendo mi revisión completa | 2026-12-28 | Registro de horas por propuesta; mensual |
+| Evitar ampliaciones sin acuerdo | 2 pedidos sin documentar en el último mes del caso ficticio | Documentar cada ampliación antes de empezar | 2026-12-28 | Revisión semanal de encargos activos |
 
-I want to be a VP of Product within two years. Not necessarily at Meridian, but ideally. I need to demonstrate I can own a full product area and drive business outcomes, not just ship features. The engagement metrics from this half are my strongest evidence.
+## A un año
 
-I'm also building my expertise in health tech specifically — I want to be known as someone who deeply understands the patient engagement space.
+Quiero tener una cartera de trabajos compatible con mis horarios y una colaboración externa estable para dibujo. No busco aceptar todos los pedidos que llegan.
 
-## How I Think About Tradeoffs
+## Cómo resuelvo tensiones
 
-Speed over polish for internal tools and processes. Quality over speed for anything patient-facing — we're in healthcare, errors matter. Short-term customer satisfaction over long-term architectural elegance — I'll take on product debt to keep a key customer happy, then pay it down later. I'd rather ship something 80% right and iterate than spend three more sprints getting to 95%.
+Priorizo claridad de alcance y calidad de revisión sobre cantidad de encargos. Prefiero acordar una fecha realista antes que trabajar fuera de horario para sostener una promesa apresurada.
 
-## What I'm NOT Prioritizing
+## Qué no priorizo ahora
 
-Care plan tracking pilot — it's strategically important but blocked by external dependencies I can't control. I'm not burning political capital trying to unstick it. It'll move when Epic moves.
+No voy a ampliar mi zona de visitas ni contratar un equipo fijo. Lo revisaré cuando tenga una carga sostenida que pueda delegar y una previsión de ingresos suficiente.
 
-Building a self-serve analytics dashboard for customers — it keeps coming up in roadmap discussions but it's a quarter-long project and doesn't serve the current goals.
+## Cómo se vería una buena semana
 
-My own AI skill development — I know I need to get better at using AI tools, but it keeps getting pushed by shipping deadlines.
-
-## What Success Looks Like
-
-By September: Async Messaging V2 is live and adopted, engagement metrics are up, at least one customer has publicly credited the feature in a case study. I've started conversations about a VP path with Priya. I feel less reactive and more strategic — spending more time on roadmap and less time in ticket triage.
+Entrego lo comprometido, tengo los acuerdos documentados y termino el viernes sabiendo cuál es el siguiente paso de cada encargo.

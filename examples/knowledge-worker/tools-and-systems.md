@@ -1,27 +1,38 @@
-# Tools and Systems
+# Herramientas y sistemas
 
-## Daily Tools
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-- **Linear** — sprint planning and ticket management for both squads. I live in the backlog views.
-- **Productboard** — roadmap management and feature prioritization. Where customer feedback gets organized.
-- **Figma** — design reviews and async comments on Maya's work.
-- **Slack** — primary communication. I'm in too many channels.
-- **Google Docs** — all specs, planning docs, customer summaries. Heavy user of comments and suggestions mode.
-- **Notion** — team wiki, meeting notes, process docs.
-- **Loom** — async updates to stakeholders, spec walkthroughs for engineering.
+**Responsable:** Lucía — arquitecta independiente
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Data Sources
+## Herramientas habituales
 
-Customer feedback lives in Productboard (imported from Intercom and Salesforce). Product analytics in Amplitude. Clinical workflow data in our internal dashboard (Metabase on top of Postgres). Customer contracts and agreements in Salesforce.
+| Herramienta | Para qué la uso | Quién la mantiene |
+| --- | --- | --- |
+| Correo | Propuestas, entregas y confirmaciones | Yo |
+| WhatsApp | Consultas iniciales y coordinación | Yo |
+| Agenda digital | Visitas y reuniones confirmadas | Yo |
+| Carpeta de documentos | Archivos por encargo y versiones entregadas | Yo y la dibujante, según permisos |
+| Planilla | Seguimiento de presupuestos y pagos | Yo |
 
-## Integrations and Connections
+## Fuentes de información
 
-Intercom → Productboard for customer feedback. Linear → Slack notifications for sprint updates. Amplitude dashboards embedded in our weekly product review deck.
+La última propuesta aceptada por correo define el alcance. La carpeta de entregas contiene las versiones enviadas al cliente. La agenda registra horarios confirmados. Si un mensaje contradice un acuerdo, lo verifico antes de actualizarlo.
 
-## Evaluating or Planning to Adopt
+## Conexiones y pasos manuales
 
-Looking at Claude for spec writing and customer feedback synthesis. Haven't started yet — it's on my list for this quarter.
+Paso a mano las fechas confirmadas desde los mensajes a la agenda. La planilla no se sincroniza con el correo ni verifica pagos automáticamente.
 
-## Tried and Rejected
+## Acceso de la IA
 
-Jira — we switched to Linear a year ago and never looked back. Jira was too heavy for our team size. Coda — tried it as a Notion replacement, found it more powerful but harder to get the team to adopt.
+Comparto sólo textos anonimizados o archivos seleccionados para la tarea. Nombrar una carpeta acá no le da acceso a su contenido.
+
+## Herramientas en evaluación
+
+Estoy evaluando un formulario sencillo para consultas iniciales. Primero quiero definir qué preguntas necesito hacer.
+
+## Herramientas descartadas
+
+Dejé un tablero con demasiadas etapas: duplicaba la planilla sin ayudarme a priorizar.

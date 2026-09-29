@@ -1,27 +1,31 @@
-# Goals and Priorities
+# Objetivos y prioridades
 
-## Current Goals
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Get the AI/ML team to first delivery. I need Runa's team to produce something real this quarter — not a demo, not a prototype, a production model that proves the investment thesis to the board.
+**Responsable:** Martín — dueño de una pyme de mantenimiento
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-Complete Phase 2 of the platform migration without a customer-facing incident. This is the riskiest technical work we've done and it needs to go smoothly.
+## Objetivos de los próximos 90 días
 
-Fill the remaining 7 engineering positions before Q3.
+| Resultado buscado | Situación actual | Meta | Fecha | Fuente y frecuencia de medición |
+| --- | --- | --- | --- | --- |
+| Reducir visitas con datos obligatorios faltantes | 8 de 40 visitas del mes ilustrativo | Como máximo 2 de cada 40 | 2026-12-28 | Órdenes revisadas cada semana |
+| Preparar a tiempo los cierres administrativos | Demora actual por medir | Registrar primero la demora durante octubre; fijar meta con esa base | 2026-10-30 | Fecha de cierre operativo y administrativo; revisión semanal |
 
-## Longer-Term Goals
+## A un año
 
-CTO track. I want to be in a CTO seat within three years — either here if David creates the role, or elsewhere. That means demonstrating I can set technical strategy, not just run an engineering org. The AI/ML team and the platform migration are both proving grounds for that.
+Quiero que la coordinación cotidiana pueda funcionar con menos intervenciones mías. Busco contratos que entren en nuestra capacidad y permitan planificar, sin depender de urgencias permanentes.
 
-Build an engineering org that runs well without me in every meeting. I'm still too involved in day-to-day decisions. By end of year, my leads should be able to run their teams with minimal input from me on anything below architecture-level decisions.
+## Cómo resuelvo tensiones
 
-## How I Think About Tradeoffs
+Prefiero cumplir los compromisos vigentes antes que sumar trabajos a una agenda saturada. No reduzco revisión ni condiciones de ejecución para sostener una fecha inviable.
 
-Reliability over speed — always. We process payments. An outage costs more than a missed deadline. Long-term architecture over short-term velocity — I'll take a slower quarter now if it means we're faster for the next eight. Hiring quality over hiring speed — an empty seat is better than a bad hire. I'd rather have five great engineers than eight okay ones.
+## Qué no priorizo ahora
 
-## What I'm NOT Prioritizing
+No abriremos otra zona de cobertura ni cambiaremos todos los sistemas. Primero necesitamos información confiable en las órdenes actuales.
 
-Developer experience improvements beyond what's necessary for retention — new tools, better CI/CD, nicer dev environments. It matters, but it's not the top priority this half. Also not prioritizing expanding into new tech stacks — we're a Python/Go shop and I'm not introducing Rust or anything else right now regardless of what's trendy.
+## Cómo se vería una buena semana
 
-## What Success Looks Like
-
-By September: AI team has a production model live, platform migration is complete and stable, we're fully staffed, and I've had a real conversation with David about the CTO path. The org feels calmer — fewer fires, more building.
+Los técnicos salen con información completa, el cliente sabe qué esperar y la coordinadora resuelve asignaciones habituales sin pedirme cada decisión.

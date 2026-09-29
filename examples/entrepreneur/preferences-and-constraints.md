@@ -1,27 +1,36 @@
-# Preferences and Constraints
+# Preferencias y límites
 
-## Hard Constraints
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Central time. I work 8am-5pm Monday through Thursday. Fridays are non-billable — agent building, content, business development. I don't take client calls on Fridays. I don't work weekends except during launch weeks.
+**Responsable:** Paula — dueña de una ferretería
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-Maximum four active client engagements at a time. I've learned that five is where quality starts to slip.
+## Disponibilidad y capacidad
 
-## Strong Preferences
+En este caso ficticio, el local atiende de lunes a viernes de 9 a 18 y sábados de 9 a 13, en `America/Argentina/Buenos_Aires`. Respondemos WhatsApp dentro de esos horarios, según la demanda del mostrador. No prometemos respuesta inmediata.
 
-All client communication happens in Slack or on scheduled calls. No texting. No WhatsApp. No "can I call you real quick?" without scheduling it. I protect my focus time aggressively.
+## Condiciones de trabajo
 
-Deliverables are Google Docs. Not PDFs (can't comment), not Word docs (version control nightmare), not Notion pages (too tied to my workspace). Google Docs with commenting enabled, always.
+Confirmamos precio, moneda, cantidad y disponibilidad antes de cerrar un pedido. Los encargos especiales necesitan condiciones acordadas. La IA debe dejar cualquier importe o fecha sin verificar como pendiente; el contexto no contiene una lista de precios.
 
-I want to own all the strategy work. I'll use AI for research, first drafts, and production content, but the strategic thinking — positioning, messaging architecture, narrative design — is human. That's what they're paying me for.
+## Preferencias
 
-## Things I Hate
+Un registro por pedido, con responsable y estado. Las listas de proveedores se identifican por fecha. No tratamos una consulta como venta confirmada.
 
-Scope creep disguised as "one quick thing." Clients who want to see the work before it's ready to show. Meetings without a clear purpose. Being asked to "just throw something together" — if it has my name on it, it takes the time it takes. Discovery calls that are actually just free consulting.
+## La IA puede preparar
 
-## Personal Constraints
+Respuestas a consultas con datos provistos, síntesis de faltantes y alternativas para ordenar la reposición.
 
-I have a dog that needs a midday walk — I block 12:30-1:30 every day and I'm not available during that window. I travel about one week per quarter for conferences and I plan these well in advance. I'm in Austin, so most of my clients are in other time zones — I flex for Pacific and Eastern time calls but I won't take a call before 8am or after 5pm Central.
+## Requiere mi aprobación
 
-## AI Output Preferences
+Compras, descuentos excepcionales, cambios de precios y publicaciones. El equipo confirma pedidos dentro de las condiciones vigentes; la IA prepara borradores para revisión.
 
-Write like a human, not like a corporate communications department. Short paragraphs. No hedging language. If I ask for a first draft, give me something I can edit, not something I have to rewrite. For research and analysis, give me the conclusions first and the supporting evidence after — don't build up to the point. Never use bullet points in anything that will be client-facing copy — I write in prose.
+## Información reservada
+
+No compartimos datos de pago, teléfonos de clientes ni condiciones confidenciales de proveedores en material público. Para analizar pedidos usamos alias y sólo los campos necesarios.
+
+## Formato de las respuestas
+
+Mensajes breves. Para comparar compras, usá una tabla con cantidad, costo confirmado, moneda, plazo y datos faltantes. No mezcles importes de monedas distintas.

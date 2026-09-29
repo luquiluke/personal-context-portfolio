@@ -1,25 +1,36 @@
-# Role and Responsibilities
+# Rol y responsabilidades
 
-## Core Responsibilities
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Accountable for engineering output, platform reliability, security posture, and engineering hiring. If the platform goes down, that's on me. If we miss a product deadline because of engineering, that's on me. If we lose good engineers to attrition, that's on me. I'm also the engineering voice in executive decision-making — our CEO and CPO look to me for "can we do this, how long will it take, what are the risks."
+**Responsable:** Martín — dueño de una pyme de mantenimiento
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Weekly Cadence
+## Responsabilidades principales
 
-Monday: engineering leadership sync (my six team leads), then exec staff meeting with CEO, CPO, CFO, and CRO. Tuesday: 1:1s with three of my direct reports (rotating — I see each lead biweekly). Wednesday: architecture review (rotating teams present), then office hours (open slot for anyone in engineering). Thursday: 1:1s with the other three directs, cross-functional meeting with product leadership. Friday: hiring pipeline review, then my own thinking/writing time.
+Soy responsable de capacidad, presupuestos y compromisos con clientes. La coordinadora mantiene la agenda y reúne la información de cada visita. Los técnicos ejecutan tareas dentro del alcance asignado y registran novedades.
 
-## Monthly / Quarterly Rhythms
+## Semana habitual
 
-Monthly: engineering all-hands (I present), reliability review (SLA performance, incident retrospectives), and budget review with finance. Quarterly: OKR setting with my leads, headcount planning, performance calibration across teams. Annually: compensation review cycle (February), engineering offsite (June), planning cycle for next year (October-November).
+Cada mañana revisamos agenda, materiales y bloqueos durante quince minutos. Los lunes ordeno la capacidad de la semana con la coordinadora. Los miércoles reviso compras pendientes. Los viernes reviso trabajos cerrados, facturación por preparar y cobros pendientes con administración externa.
 
-## Key Decisions
+## Ritmos mensuales y temporadas
 
-Hiring approvals — every engineering offer goes through me. Architecture decisions above a certain complexity threshold. Incident response escalation — I'm the final call on severity and customer communication. Team structure changes. Build vs. buy decisions on infrastructure. Vendor selection for developer tools.
+Reviso contratos recurrentes, horas utilizadas y reclamos abiertos una vez al mes. Cuando aumenta la demanda, primero reviso capacidad y fechas; no agrego visitas a una agenda completa sin reprogramación acordada.
 
-## What I Produce
+## Decisiones habituales
 
-Weekly written update to the CEO (bullet format, five minutes to read). Quarterly engineering OKRs. Architecture decision records when I weigh in on technical choices. Hiring scorecards. Performance reviews for my direct reports. Occasional blog posts on engineering culture for our company blog.
+Apruebo presupuestos, descuentos, compras fuera de lo planificado y cambios de fecha comprometida. La coordinadora puede asignar una visita a un horario libre dentro de las condiciones ya aprobadas.
 
-## Reporting Structure
+## Entregables
 
-I report to our CEO, David Nakamura. Six engineering leads report to me, each owning a team: Payments Core, Platform, Integrations, Data, DevOps/Infra, and a new AI/ML team we're standing up. I also have a dotted-line relationship with our CISO on security matters.
+Presupuestos, órdenes de trabajo, registros de visita, novedades y resúmenes para clientes.
+
+## Delegación y coordinación
+
+La coordinadora centraliza la agenda; los seis técnicos informan por el canal de trabajo acordado. La asesoría administrativa externa no forma parte de las ocho personas del equipo.
+
+## Cuello de botella principal
+
+Las órdenes incompletas hacen que un técnico tenga que consultar datos que podríamos haber reunido antes de salir.

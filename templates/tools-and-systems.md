@@ -1,53 +1,68 @@
-# Tools and Systems
+# Herramientas y sistemas
 
-## What This File Is For
+## Para qué sirve
 
-What you use, how it's set up, and what connects to what. Agents use this to suggest workflows that fit your actual stack, avoid recommending tools you've already rejected, and understand where your data lives. If an agent is going to help you build something, it needs to know what it's building on top of.
+Muestra dónde está la información y qué herramienta usás para cada tarea. Incluye planillas, WhatsApp y papel, además de sistemas de gestión.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `tools-and-systems.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their tools and systems file. This should be a practical inventory of their working environment, not an exhaustive list of every app on their phone. Focus on the tools that shape how they work day to day.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+No supongas integraciones automáticas. Diferenciá lo que ya funciona de lo que quieren implementar. Registrá ubicación y responsable, nunca claves, tokens ni enlaces que den acceso privado.
 
-1. What tools and platforms do you use every day? Walk me through your core stack.
-2. How is your setup customized? Any specific configurations, integrations, or workflows that an agent should know about?
-3. Where does your important data live — docs, spreadsheets, databases, specific platforms?
-4. Are there tools you're currently evaluating or planning to start using?
-5. Anything you've tried and deliberately stopped using? What didn't work?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After 4-5 questions. Keep it practical.
+1. ¿Qué herramientas usás durante un día habitual?
+2. ¿Dónde registrás clientes y pedidos?
+3. ¿Cuál es la fuente que tomás como válida cuando dos registros no coinciden?
+4. ¿Qué información copiás a mano entre herramientas?
+5. ¿Quién mantiene actualizados los registros?
+6. ¿Qué herramienta probaste y dejaste de usar?
+7. ¿Qué problema te gustaría resolver con una herramienta nueva?
 
-**After drafting:** Present the draft. Ask the user if anything important is missing from the daily tools — people often forget to mention things they use so habitually they don't think of them as tools.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Tools and Systems
+# Herramientas y sistemas
 
-## Daily Tools
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-[The tools and platforms you use every day. For each: what it is, what you use it for, and any notable configuration.]
+## Herramientas habituales
 
-## Data Sources
+| Herramienta | Para qué la uso | Quién la mantiene |
+| --- | --- | --- |
+| [Nombre] | [Tarea] | [Responsable] |
 
-[Where your important data lives — documents, spreadsheets, databases, cloud storage, specific platforms. What lives where.]
+## Fuentes de información
 
-## Integrations and Connections
+| Información | Dónde se registra | Fuente válida ante diferencias |
+| --- | --- | --- |
+| [Clientes / presupuestos / stock / agenda / cobros] | [Sistema o carpeta, sin acceso privado] | [Fuente y responsable] |
 
-[How your tools connect to each other. Automations, integrations, data flows between systems.]
+## Conexiones y pasos manuales
 
-## Evaluating or Planning to Adopt
+[Qué se sincroniza realmente y qué se copia a mano.]
 
-[Tools you're looking at or planning to start using. What problem they'd solve.]
+## Acceso de la IA
 
-## Tried and Rejected
+[Qué archivos se comparten para esta tarea. No asumir acceso a una herramienta por nombrarla acá.]
 
-[Tools you've deliberately stopped using and why. Saves agents from recommending things you've already ruled out.]
+## Herramientas en evaluación
+
+[Problema que deberían resolver, estado y restricciones.]
+
+## Herramientas descartadas
+
+[Qué probaste y por qué no sirvió.]
 ```

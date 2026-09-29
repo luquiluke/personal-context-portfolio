@@ -1,64 +1,74 @@
-# Personal Context Portfolio
+# Tu contexto para la IA
 
-Every AI agent, tool, and system you use needs to know who you are. Right now, you re-explain yourself from scratch every time — your role, your projects, your preferences, your constraints. It's the most repetitive, highest-friction part of working with AI, and it gets exponentially worse as the number of agents in your life grows from one to ten to fifty.
+### Una guía de trabajo para profesionales y dueños de pymes
 
-The personal context portfolio fixes this. It's a structured set of markdown files that together represent you as a context package — something any agent, any tool, any AI system can ingest and immediately understand who it's working with.
+Contale una vez a la IA qué hacés, para quién trabajás y cómo funciona tu negocio. Guardá ese contexto en archivos simples y usalo para preparar presupuestos, responder consultas, organizar entregas y pensar decisiones con información sobre tu realidad.
 
-It's not a resume. It's not a profile. It's an operating manual for any AI that works for you.
+Este kit te ayuda a armar **diez documentos breves** sobre tu actividad. Está escrito en español rioplatense, con voseo, y podés usarlo por tu cuenta o durante una sesión con un consultor. No necesitás programar ni saber usar GitHub.
 
-## What's In It
+**[Empezá acá →](GETTING-STARTED.md)**
 
-Ten files, each covering a different dimension of who you are and how you work:
+## Para quién es
 
-| File | What It Captures |
-|------|-----------------|
-| `identity.md` | Who you are in one page — the file an agent reads if it can only read one |
-| `role-and-responsibilities.md` | What your weeks actually look like, not what your job description says |
-| `current-projects.md` | Active workstreams, status, priority, what done looks like |
-| `team-and-relationships.md` | Key people, how you interact, what they need from you |
-| `tools-and-systems.md` | Your stack, your setup, what connects to what |
-| `communication-style.md` | How you write, how you want things written for you |
-| `goals-and-priorities.md` | What you're optimizing for and what you're deliberately ignoring |
-| `preferences-and-constraints.md` | Hard rules, strong opinions, things any agent should respect |
-| `domain-knowledge.md` | What you know that a general-purpose AI doesn't |
-| `decision-log.md` | How you make decisions, with real examples |
+- **Profesionales independientes:** consultores, arquitectos, contadores, abogados, diseñadores y otras personas que venden su conocimiento y su tiempo.
+- **Dueños y responsables de pymes de servicios:** estudios, agencias, talleres, empresas de mantenimiento y equipos que coordinan trabajos para clientes.
+- **Comercios y pequeños negocios:** personas que gestionan ventas, compras, proveedores, stock y atención al público.
 
-## Design Principles
+Las preguntas se adaptan a tu actividad. Si trabajás por tu cuenta, no necesitás inventar un equipo. Si un tema no aplica, podés saltearlo.
 
-**Markdown-first.** Every AI system on earth can read markdown. It's the universal interchange format for context. Not JSON, not PDFs, not databases. Markdown files that are human-readable AND machine-readable.
+## Qué vas a poder hacer
 
-**Modular, not monolithic.** Not one giant "about me" file. Separate files for separate domains. An agent prepping your meetings doesn't need your full life story — it needs your calendar context, team roster, and meeting preferences. Modularity lets agents grab what's relevant.
+| Necesidad | Contexto que conviene compartir |
+| --- | --- |
+| Preparar un presupuesto con alcance y exclusiones claros | Identidad, conocimiento del rubro, preferencias y límites |
+| Redactar un seguimiento comercial por WhatsApp o correo | Identidad, estilo de comunicación, vínculos relevantes |
+| Ordenar la semana y detectar cuellos de botella | Responsabilidades, proyectos, objetivos |
+| Comparar una compra o un cambio de proveedor | Objetivos, límites, registro de decisiones |
+| Delegar una tarea sin explicar todo de nuevo | Responsabilidades, herramientas, conocimiento del rubro |
 
-**Living, not static.** This isn't a thing you write once. It's a thing you maintain — or better, that your agents help you maintain. Your projects file updates as projects change. Your priorities file shifts quarterly. The portfolio evolves with you.
+El kit aporta contexto. No consulta tus sistemas ni ejecuta acciones por sí solo. Los borradores y las decisiones siguen necesitando tu criterio.
 
-**Portable across everything.** Works with Claude, works with ChatGPT, works with OpenClaw agents, works with whatever comes next. No vendor lock-in. It's just files.
+## Los diez documentos
 
-## Two Ways to Build Yours
+Conservamos los nombres de archivo del proyecto original para facilitar su reutilización e integración. Todo el contenido está en español.
 
-**Use the web app.** A purpose-built interviewer agent walks you through the whole process. You answer questions, it drafts your files, you correct what it gets wrong, and you walk away with your complete portfolio. Zero setup, zero friction. → [Link to app]
+| Documento | Archivo / plantilla | Qué deja claro |
+| --- | --- | --- |
+| Identidad y actividad | [identity.md](templates/identity.md) | Qué hacés, qué ofrecés, a quién atendés y qué te diferencia |
+| Rol y responsabilidades | [role-and-responsibilities.md](templates/role-and-responsibilities.md) | Cómo transcurre tu semana y qué depende de vos |
+| Proyectos y trabajos en curso | [current-projects.md](templates/current-projects.md) | Entregas, responsables, prioridades y próximos pasos |
+| Equipo y vínculos | [team-and-relationships.md](templates/team-and-relationships.md) | Clientes, colegas, colaboradores y proveedores clave |
+| Herramientas y sistemas | [tools-and-systems.md](templates/tools-and-systems.md) | Dónde está la información y qué herramienta usás para cada cosa |
+| Estilo de comunicación | [communication-style.md](templates/communication-style.md) | Cómo querés sonar en mensajes, propuestas y documentos |
+| Objetivos y prioridades | [goals-and-priorities.md](templates/goals-and-priorities.md) | Qué querés mejorar y cómo vas a medirlo |
+| Preferencias y límites | [preferences-and-constraints.md](templates/preferences-and-constraints.md) | Horarios, capacidad, presupuesto y decisiones que requieren aprobación |
+| Conocimiento del rubro | [domain-knowledge.md](templates/domain-knowledge.md) | Tu criterio profesional y las particularidades de tu negocio |
+| Registro de decisiones | [decision-log.md](templates/decision-log.md) | Qué decidiste, por qué y cuándo revisarlo |
 
-**Do it yourself.** Fork this repo and use the templates in `/templates`. Each template includes the interview questions your AI build partner should ask you, plus the output structure for the finished file. Hand any template to Claude or ChatGPT and say "let's do this one."
+## Empezá con una tarea concreta
 
-## After You Build It
+Armá primero identidad, estilo de comunicación y preferencias y límites. Probá esos tres documentos con una consulta o propuesta que tengas pendiente. Después sumá los demás según lo que necesites.
 
-The portfolio is raw material. What makes it powerful is wiring it into the systems you actually use. The `/wiring` directory has guides for exposing your portfolio as an MCP resource, using it in Claude Projects, connecting it to OpenClaw agents, and more. That's the real work — and it's on you.
+Podés copiar y pegar el contenido en tu herramienta de IA o adjuntar los archivos. Markdown (`.md`) es texto con títulos y listas: lo podés abrir con un editor de texto común.
 
-## Repo Structure
+## Ejemplos y acompañamiento
 
-```
-personal-context-portfolio/
-├── README.md                    ← you are here
-├── GETTING-STARTED.md           ← step-by-step for both paths
-├── templates/                   ← empty templates with interview protocols
-├── examples/                    ← filled-out examples for three personas
-│   ├── knowledge-worker/
-│   ├── executive/
-│   └── entrepreneur/
-├── wiring/                      ← guides for connecting your portfolio to AI tools
-└── interview-protocol/
-    └── agent-system-prompt.md   ← the full system prompt from the web app
-```
+- [Profesional independiente](examples/knowledge-worker/identity.md): arquitecta que trabaja con reformas de viviendas y locales.
+- [Pyme de servicios](examples/executive/identity.md): dueño de una empresa de mantenimiento con un equipo de ocho personas.
+- [Comercio](examples/entrepreneur/identity.md): dueña de una ferretería con local y pedidos por WhatsApp.
+- [Índice de ejemplos](examples/README.md): los diez archivos de cada caso. Todas las personas, empresas, cifras y situaciones son ficticias.
+- [Guía para acompañar a un cliente](GUIA-PARA-CONSULTORES.md): preparación, entrevista, validación y entrega.
+- [Entrevista completa con IA](interview-protocol/agent-system-prompt.md): instrucciones listas para copiar.
+- [Usar el contexto con tus herramientas](wiring/README.md): desde copiar y pegar hasta integraciones técnicas opcionales.
 
-## License
+## Guardá tus respuestas por separado
 
-MIT. Fork it, customize it, use it however you want.
+Este repositorio público contiene plantillas y ejemplos. Guardá el contexto real en una carpeta privada, fuera del repositorio; compartí solamente lo necesario para cada tarea. Usá alias para clientes y no incluyas contraseñas, datos bancarios ni información sensible de terceros. No hace falta publicar tus respuestas para usar el kit.
+
+Revisá los trabajos activos cada semana y los objetivos cada mes. Anotá la fecha de actualización y reemplazá también las copias que hayas subido a una herramienta de IA.
+
+## Origen y licencia
+
+Adaptación de [Personal Context Portfolio, de nlwhittemore](https://github.com/nlwhittemore/personal-context-portfolio). El original declara licencia MIT en su README. Esta versión conserva esa referencia; el repositorio de origen no incluye un archivo `LICENSE` separado.
+
+Esta edición agrega español rioplatense, casos de profesionales y pymes, una ruta de inicio simple y pautas para trabajar con clientes. Conserva la estructura de diez documentos y las rutas originales. Consultá el [detalle de la adaptación](ADAPTACION.md).

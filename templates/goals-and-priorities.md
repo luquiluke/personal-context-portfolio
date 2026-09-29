@@ -1,53 +1,61 @@
-# Goals and Priorities
+# Objetivos y prioridades
 
-## What This File Is For
+## Para qué sirve
 
-What you're optimizing for — this quarter, this year, and longer term. Agents use this to weight decisions and recommendations appropriately. An agent that knows you're prioritizing speed over polish right now will give you different advice than one that thinks you're optimizing for quality. This file also captures what you're deliberately NOT doing, which is just as important.
+Define qué querés mejorar, cómo vas a medirlo y qué vas a dejar para más adelante. No hace falta priorizar crecimiento si hoy necesitás estabilidad o tiempo.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `goals-and-priorities.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their goals and priorities file. This is about what they're optimizing for, not their project list (that's a different file). Push for the difference between goals and projects if they start listing tasks. Use what you know from previous files to ask informed follow-ups.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+Diferenciá tareas de resultados: «ordenar la agenda» puede apuntar a reducir reprogramaciones. No inventes métricas iniciales, metas, facturación ni márgenes. Si no hay medición, definí cómo empezarla.
 
-1. What are you trying to accomplish in the next few months? Not your project list — your goals. What does success look like by the end of this quarter or this season?
-2. What about longer term — this year, or the next couple of years? What are you building toward?
-3. When you have to make a tradeoff — speed vs. quality, short-term vs. long-term, growth vs. stability — where do you generally land?
-4. What are you explicitly NOT prioritizing right now, even if it's important? What have you deliberately put on the back burner?
-5. If things go well over the next six months, what's different about your work or your life?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After 4-5 questions.
+1. ¿Qué cambio concreto querés lograr en los próximos tres meses?
+2. ¿Cómo te darías cuenta de que mejoró?
+3. ¿Conocés el valor actual de ese indicador?
+4. ¿Qué objetivo tenés para el próximo año?
+5. ¿Qué preferís cuidar cuando no se puede hacer todo?
+6. ¿Qué decidiste no priorizar por ahora?
 
-**After drafting:** Present the draft. Ask the user to check whether the tradeoff preferences feel accurate — those are the highest-leverage lines in this file because they directly affect how agents make recommendations.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Goals and Priorities
+# Objetivos y prioridades
 
-## Current Goals
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-[What you're trying to accomplish in the near term — this quarter or this season of work. Concrete outcomes, not aspirations.]
+## Objetivos de los próximos 90 días
 
-## Longer-Term Goals
+| Resultado buscado | Situación actual | Meta | Fecha | Fuente y frecuencia de medición |
+| --- | --- | --- | --- | --- |
+| [Resultado] | [Valor o «Por medir»] | [Meta confirmada] | [AAAA-MM-DD] | [Registro y frecuencia] |
 
-[This year or the next few years. What you're building toward. Where you want to be.]
+## A un año
 
-## How I Think About Tradeoffs
+[Qué querés construir o cambiar en tu actividad.]
 
-[Your default positions on common tradeoffs — speed vs. quality, growth vs. stability, short-term vs. long-term, breadth vs. depth. Where you tend to land when forced to choose.]
+## Cómo resuelvo tensiones
 
-## What I'm NOT Prioritizing
+[Por ejemplo: cuidar calidad antes que volumen; capacidad antes que nuevos compromisos.]
 
-[Things that are important but deliberately on the back burner. Things you've decided not to do right now so agents don't keep suggesting them.]
+## Qué no priorizo ahora
 
-## What Success Looks Like
+[Qué dejás para después y en qué condición lo revisarías.]
 
-[If things go well in the next six months, what's different? Paint the picture so agents understand what you're working toward.]
+## Cómo se vería una buena semana
+
+[Una descripción concreta del resultado cotidiano que buscás.]
 ```

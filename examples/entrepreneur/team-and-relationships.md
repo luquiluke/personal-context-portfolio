@@ -1,37 +1,32 @@
-# Team and Relationships
+# Equipo y vínculos
 
-## Amit Patel
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-**Role:** CEO, Vextra (current client)
-**Relationship:** Client — active engagement.
-**How We Interact:** Two calls per week during the engagement, Slack channel for async.
-**What He Needs From Me:** A clear, opinionated positioning recommendation he can align his team around. He wants to be challenged — he's hiring me because his internal team is too close to the product.
-**What I Need From Him:** Access to his customers, candid answers about where the product actually is (not the pitch deck version), and quick approvals so we stay on timeline.
-**Context for Agents:** Amit is a technical founder who speaks in features. I need to keep translating back to customer value. He's responsive and fast — don't wait to send him things.
+**Responsable:** Paula — dueña de una ferretería
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Danielle Kim
+## Equipo de atención
 
-**Role:** CMO, Baseform (retainer client)
-**Relationship:** Client — ongoing monthly engagement.
-**How We Interact:** Monthly call to plan content, async in Slack for draft reviews.
-**What She Needs From Me:** Content that sounds like it came from their team, not a contractor. On-time delivery. Pieces that their sales team can actually use in outreach.
-**What I Need From Her:** Timely feedback on drafts, access to their subject matter experts when I need technical depth, and clarity on what topics are off-limits (competitive stuff, unreleased features).
-**Context for Agents:** Danielle gives feedback in bullet points — "change X, cut Y, add Z." Very efficient. Match that style when preparing things for her review.
+**Función y vínculo:** Dos personas que atienden mostrador y pedidos.
+**Cómo nos coordinamos:** Revisión al inicio del día y registro compartido.
+**Qué necesitan de mí:** Precios vigentes, prioridades y criterio para excepciones.
+**Qué necesito del equipo:** Registrar pedidos, faltantes y diferencias de stock.
+**Qué pueden decidir:** Preparar y confirmar pedidos con información vigente y condiciones aprobadas.
+**Qué requiere consulta:** Descuentos fuera de lo acordado, diferencias de precio y sustituciones no verificadas.
+**Pautas de comunicación:** Indicar producto, cantidad, estado y dato que falta confirmar.
 
-## Rachel Stein
+## Proveedor A
 
-**Role:** Business coach
-**Relationship:** Monthly coaching sessions.
-**How We Interact:** Monthly 1-hour call, occasional text check-ins.
-**What She Needs From Me:** To come prepared with a specific question or decision, not a general download.
-**What I Need From Her:** Pattern matching from her other clients, pushback on my assumptions about pricing and positioning, and accountability on revenue targets.
-**Context for Agents:** Not relevant for agent prep — this is a personal development relationship.
+**Función y vínculo:** Proveedor habitual de una parte del catálogo.
+**Cómo nos coordinamos:** Pedido escrito y confirmación de disponibilidad.
+**Qué necesita de mí:** Códigos y cantidades claros.
+**Qué necesito de esta empresa:** Condiciones, disponibilidad y fecha confirmada de entrega.
+**Qué puede decidir:** Su oferta y disponibilidad; no nuestras promesas a clientes.
+**Qué requiere consulta:** Cualquier sustitución o cambio de condición.
+**Pautas de comunicación:** Comparar la confirmación contra el pedido antes de darlo por cerrado.
 
-## Accountability Group
+## Clientes habituales de oficios
 
-**Role:** Four other solo consultants who meet biweekly.
-**Relationship:** Peers — mutual support and accountability.
-**How We Interact:** Biweekly video call (Wednesdays, 9am), group Slack channel.
-**What They Need From Me:** Honest updates on progress, willingness to share what's working (including AI workflows).
-**What I Need From Them:** Reality checks, referrals, and the energy that comes from not working alone.
-**Context for Agents:** If prepping for this meeting, I need a quick summary of what I committed to last session and where I stand.
+Usamos alias en el contexto. Necesitan respuestas concretas sobre especificación, stock y retiro. Una compra anterior no confirma que hoy necesiten el mismo producto ni autoriza a reutilizar sus condiciones sin revisarlas.

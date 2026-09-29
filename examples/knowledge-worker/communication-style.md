@@ -1,25 +1,37 @@
-# Communication Style
+# Estilo de comunicación
 
-## Overall Style
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Direct and concise. I lead with the point and then give context, not the other way around. I'm informal with my team and more structured with leadership, but never stiff.
+**Responsable:** Lucía — arquitecta independiente
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Writing Tendencies
+## Mi tono habitual
 
-Short sentences. I break things into bullets when there are more than two items. I use dashes a lot — like this — instead of parentheses. I don't capitalize things for emphasis; I use formatting instead. My emails tend to be 3-5 sentences unless it's a complex topic that needs a doc.
+Soy cercana y clara. Explico el motivo de una recomendación sin convertir el mensaje en una clase. Prefiero decir qué falta definir antes que asegurar algo que todavía no sé.
 
-## Formatting Preferences
+## Tratamiento y vocabulario
 
-I structure specs with clear headers: Problem, Proposed Solution, Success Metrics, Open Questions. Emails get bullets if there are action items. I bold the actual ask in any email so people can skim. I hate walls of text.
+Uso vos con mis clientes habituales. Si una persona prefiere usted, lo respeto. Evito siglas sin explicar y frases como «soluciones integrales de excelencia».
 
-## What I Dislike
+## Según el canal
 
-"I hope this email finds you well" and anything that sounds like it. AI-generated text that uses "leverage," "utilize," "streamline," or "cutting-edge." Overly formal phrasing where a simple sentence would do. Passive voice when someone should just own the statement. Long emails that could have been three sentences with a link to a doc.
+**WhatsApp:** Un saludo, el punto principal y una pregunta concreta. Sin cadenas de mensajes ni emojis en reclamos.
+**Correo:** Asunto con el nombre del encargo y el tema; al final, próximo paso y responsable.
+**Propuestas e informes:** Secciones de alcance, entregables, exclusiones y condiciones confirmadas.
+**Colaboradores:** Observaciones agrupadas por archivo, con prioridades.
 
-## By Context
+## Frases que uso y que evito
 
-With my team (Slack, standups): very casual, emojis are fine, I'll send half-formed thoughts and iterate. With Priya: structured, concise, always lead with the headline. With customers: warm but professional, no jargon, always frame things in terms of their outcomes not our product features. With engineering: precise and technical — I use their terms, not product-speak.
+Uso «Para avanzar necesito…», «Te propongo…» y «Esto quedaría fuera del alcance acordado». Evito prometer «sin imprevistos» o «resultado garantizado».
 
-## Signature Patterns
+## Ejemplos de mi voz
 
-I start a lot of messages with "Quick question —" or "Heads up —" or "Update on [thing]:" I say "the thing is" and "here's the deal" when getting to the core of a point. I use "ship" as a verb constantly. I never say "synergy," "circle back," or "take this offline."
+**Primera respuesta:** «Hola, gracias por escribirme. ¿Qué espacio querés reformar? Con eso puedo orientarte sobre el primer paso».
+**Seguimiento:** «Hola, ¿pudiste revisar la propuesta? Si hay algo del alcance que no quedó claro, lo vemos antes de avanzar».
+**Cambio de alcance:** «Ese ajuste suma trabajo a la etapa acordada. Te preparo el detalle para que podamos confirmar alcance y fecha antes de incorporarlo».
+
+## Antes de enviar
+
+Reviso destinatario, versión del plano, alcance, honorarios y fechas. La IA prepara el borrador; yo decido qué enviar.

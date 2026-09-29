@@ -1,43 +1,56 @@
-# Team and Relationships
+# Equipo y vínculos
 
-## What This File Is For
+## Para qué sirve
 
-The key people in your work life and how you interact with each of them. Agents use this to prep for meetings, draft communications, and understand the human context around your work. An agent prepping your 1:1 needs to know who the person across the table is, what they care about, and what you need from each other.
+Identifica a las personas clave para trabajar: clientes, socios, colaboradores y proveedores. Sirve incluso si no tenés empleados.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `team-and-relationships.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their team and relationships file. Get the list of key people first, then go through each one. Use what you already know from previous files — if they mentioned collaborators during the projects or role interviews, reference them rather than re-asking.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+Usá roles o alias. Describí necesidades de trabajo observables; evitá juicios personales e información privada que no haga falta. No pidas agendas de contactos ni números de teléfono.
 
-1. Who are the 5-8 people you interact with most in your work? Give me names and roles.
-2. [For each person:] What's your working relationship with [name]? How do you typically interact — meetings, Slack, email?
-3. What does [name] need from you, and what do you need from them?
-4. Is there anything an AI working on your behalf should know about working with or preparing for interactions with [name]? Style preferences, things to be careful about, context that matters?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After you've covered each person the user named.
+1. ¿Con qué personas o roles necesitás coordinarte seguido?
+2. ¿Qué vínculo tenés con esta persona?
+3. ¿Por qué canal suelen hablar?
+4. ¿Qué necesita de vos?
+5. ¿Qué necesitás de ella?
+6. ¿Qué puede decidir por su cuenta?
+7. ¿Qué ayuda a que trabajen bien juntos?
 
-**After drafting:** Present the draft. Ask the user to check whether the dynamics feel right — the "what they need from you" and "what you need from them" sections are where the real value is, and they're easy to get subtly wrong.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Team and Relationships
+# Equipo y vínculos
 
-[Repeat this block for each key person.]
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-## [Name]
+[Repetí este bloque por cada vínculo relevante.]
 
-**Role:** [Their title or role.]
-**Relationship:** [Manager / Direct Report / Peer / Client / Collaborator / Stakeholder / etc.]
-**How We Interact:** [Regular 1:1s, async Slack, project-based, ad hoc, etc. Include cadence if regular.]
-**What They Need From Me:** [What they depend on you for.]
-**What I Need From Them:** [What you depend on them for.]
-**Context for Agents:** [Anything an AI should know when preparing for or communicating with this person — their communication style, preferences, sensitivities, working patterns.]
+## [Rol o alias]
+
+**Función y vínculo:** [Cliente / socio / colaborador / proveedor / referente]
+**Cómo nos coordinamos:** [Canal y frecuencia]
+**Qué necesita de mí:** [Entregas, decisiones o información]
+**Qué necesito de esta persona:** [Información, autorización o trabajo]
+**Qué puede decidir:** [Límites de su responsabilidad]
+**Qué requiere consulta:** [Temas que debo confirmar]
+**Pautas de comunicación:** [Preferencias profesionales observadas]
+
+## Si trabajo solo
+
+[Indicá qué apoyos externos usás y qué funciones todavía dependen de vos.]
 ```

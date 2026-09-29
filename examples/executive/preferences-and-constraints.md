@@ -1,25 +1,36 @@
-# Preferences and Constraints
+# Preferencias y límites
 
-## Hard Constraints
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Eastern time. No meetings before 8:30am or after 6pm ET. I'm on-call for P1 incidents 24/7 but I expect my leads to handle P2 and below without escalating to me. Board meetings are the last Thursday of every quarter — that week is blocked for prep.
+**Responsable:** Martín — dueño de una pyme de mantenimiento
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Strong Preferences
+## Disponibilidad y capacidad
 
-Written proposals before verbal discussions. If you want me to make a decision, write a one-pager with the options and your recommendation. I'll read it, we'll discuss the open questions, and I'll decide. Don't bring me a problem in a meeting and expect a decision on the spot.
+Horario habitual: lunes a viernes, 8 a 17, en `America/Argentina/Cordoba` — Rosario comparte ese horario. La capacidad se verifica en la agenda real: no se deduce sólo de que haya seis técnicos. No ofrecemos servicio permanente fuera de horario.
 
-Architecture decision records for anything that affects more than one team. I don't care about the format, but the reasoning needs to be documented.
+## Condiciones de trabajo
 
-1:1s are sacred. I don't cancel them. I expect my leads not to cancel them either.
+No confirmamos una visita sin alcance preliminar, disponibilidad y acceso coordinado. Las propuestas especifican moneda, vigencia, materiales y condiciones comerciales. No se inventan precios ni se reutilizan los de otro cliente sin revisión.
 
-## Things I Hate
+## Preferencias
 
-"Quick syncs" that should be Slack messages. Engineers being pulled into meetings where they don't have an action item. Dashboards that show vanity metrics. Hiring processes that take more than three weeks from first interview to offer. Post-incident reviews that blame people instead of systems.
+Una orden por visita o trabajo definido. Las novedades quedan en la orden; los mensajes sirven para avisar, no como único registro.
 
-## Personal Constraints
+## La IA puede preparar
 
-I coach my son's baseball team — practices are Tuesday and Thursday evenings from April through June. Games on Saturdays. I'll be less available during that stretch for anything after 5pm.
+Síntesis de registros anonimizados, listas de información faltante y borradores de propuestas o comunicaciones.
 
-## AI Output Preferences
+## Requiere mi aprobación
 
-Structured and scannable. Bold the key points. Use headers for anything longer than a paragraph. For strategic analysis: give me the options in a table (option, pros, cons, recommendation). Keep the language professional but not stiff — I should be able to forward it to my CEO without editing. Never pad with filler — if the answer is three sentences, write three sentences.
+Descuentos, compras no previstas, ampliaciones de alcance y compromisos nuevos. Las personas del equipo actúan dentro de sus funciones acordadas; el uso de IA no amplía esos permisos.
+
+## Información reservada
+
+No compartimos claves de acceso a locales, datos personales del equipo, información bancaria ni documentación identificable de clientes en ejemplos o repositorios públicos.
+
+## Formato de las respuestas
+
+Primero el problema y el próximo paso; después los datos pendientes. Si una orden está incompleta, señalá qué falta en lugar de asumirlo.

@@ -1,58 +1,69 @@
-# Communication Style
+# Estilo de comunicación
 
-## What This File Is For
+## Para qué sirve
 
-How you communicate — so that any agent producing content on your behalf sounds like you, not like a generic AI. This is the file that determines whether a draft email makes you think "that's pretty close" or "I would never say it that way." Precision matters here more than anywhere else in the portfolio. A vague communication style file is useless.
+Ayuda a redactar mensajes que suenen como vos: consultas, presupuestos, seguimientos y comunicaciones internas.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `communication-style.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their communication style file. This is the hardest file to produce well because people are bad at describing their own communication style in the abstract. Push for specifics. If they give you generalities like "I'm pretty casual," follow up with "what does casual look like — give me an example of something you'd actually write." Concrete details are everything here.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+Pedí ejemplos concretos y breves, anonimizados. Un tono cercano no implica usar jerga ni emojis. La entrevista usa voseo; los borradores respetan el tratamiento que el usuario confirme para cada audiencia.
 
-1. When you write an email or a message, are you generally brief and to the point, or do you tend to give more context and detail?
-2. How formal is your writing at work? Does it shift depending on who you're writing to?
-3. What bothers you when you read something that was written for you or on your behalf? What makes you think "that doesn't sound like me"?
-4. Are there specific words, phrases, or patterns you know you use a lot? Things people would recognize as your voice?
-5. Are there words or phrases you actively avoid? Things that sound fake or corporate or just not you?
-6. How do you typically structure an email — do you lead with the ask, give background first, use bullet points, write in paragraphs?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After 5-6 questions. If the answers are vague, keep pushing for specifics before drafting. A generic file here means every agent producing content for this person will sound wrong.
+1. ¿Cómo le responderías a alguien que consulta por primera vez?
+2. ¿Usás vos, usted o cambia según la persona?
+3. ¿Qué cambia entre un mensaje de WhatsApp y un correo?
+4. ¿Podés compartir un mensaje tuyo sin datos del destinatario?
+5. ¿Qué frase nunca usarías?
+6. ¿Cómo comunicás un atraso o un cambio de alcance?
+7. ¿Cómo preferís pedir una confirmación o recordar un pago?
 
-**After drafting:** Present the draft. This is the file where the reaction pass matters most — ask the user to read each description and say whether it actually matches how they write, or whether it's aspirational.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Communication Style
+# Estilo de comunicación
 
-## Overall Style
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-[How you communicate in general — concise or detailed, formal or casual, direct or diplomatic. The baseline.]
+## Mi tono habitual
 
-## Writing Tendencies
+[Cercano o formal, breve o explicativo, directo o cuidadoso.]
 
-[Sentence length, vocabulary level, use of jargon, tone. The specific texture of how you write.]
+## Tratamiento y vocabulario
 
-## Formatting Preferences
+[Vos / usted según audiencia; tecnicismos que uso y explicaciones necesarias.]
 
-[How you structure emails, docs, and messages. Bullet points or paragraphs, headers or no headers, short or long.]
+## Según el canal
 
-## What I Dislike
+**WhatsApp:** [Extensión, saludo, audios o texto, emojis si corresponde]
+**Correo:** [Asunto, estructura, cierre]
+**Propuestas e informes:** [Formato y nivel de detalle]
+**Equipo / proveedores:** [Diferencias relevantes]
 
-[AI-sounding phrases, corporate jargon, specific patterns that bother you. The things that make you rewrite a draft from scratch.]
+## Frases que uso y que evito
 
-## By Context
+[Expresiones reales; evitar descripciones genéricas.]
 
-[How your style shifts by audience — writing to your boss vs. your team vs. a client vs. a stranger. If it doesn't shift much, say so.]
+## Ejemplos de mi voz
 
-## Signature Patterns
+**Primera respuesta:** [Muestra anonimizada]
+**Seguimiento:** [Muestra anonimizada]
+**Límite o cambio de alcance:** [Muestra anonimizada]
 
-[Words, phrases, or habits that are distinctly yours. Things people would recognize. Also words or phrases you never use.]
+## Antes de enviar
+
+[Qué datos, importes, plazos y destinatarios reviso. Los ejemplos no autorizan envíos.]
 ```

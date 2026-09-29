@@ -1,53 +1,69 @@
-# Preferences and Constraints
+# Preferencias y límites
 
-## What This File Is For
+## Para qué sirve
 
-The "always do this / never do that" file. Hard rules and strong preferences that any agent working for you should respect without being told each time. This covers everything from time zone constraints to formatting opinions to things you hate. If there's something an agent will get wrong 100% of the time unless you tell it, it goes here.
+Reúne reglas de trabajo: disponibilidad, capacidad, límites comerciales, privacidad y qué puede preparar una IA sin comprometerte.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `preferences-and-constraints.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their preferences and constraints file. This should feel like a set of clear rules, not a personality profile. Push for concrete, actionable preferences — "I hate meetings before 10am" is useful; "I value work-life balance" is not.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+Separá reglas firmes de preferencias negociables. No pidas detalles personales: alcanza con registrar su efecto en la disponibilidad. Diferenciá preparar un borrador de enviar, comprar, publicar o modificar registros.
 
-1. Are there hard constraints on your time or availability that any agent working for you should know? Time zones, hours you don't work, days that are off limits?
-2. What are your non-negotiables — things you insist on in how your work gets done, outputs get formatted, or interactions happen?
-3. What do you hate? Meetings that should be emails, specific jargon, output formats that annoy you — anything where your reaction is strong.
-4. Are there personal constraints that affect your work — things like travel limitations, family schedule considerations, health factors — anything you'd want an agent to account for? Only share what you're comfortable with.
-5. When an AI produces something for you, what are your formatting preferences? Length, structure, level of detail, tone?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After 4-5 questions.
+1. ¿En qué horarios estás disponible?
+2. ¿Qué límite de carga de trabajo necesitás respetar?
+3. ¿Qué condición comercial no se puede prometer sin consultarte?
+4. ¿Qué presupuesto o recurso limita las propuestas?
+5. ¿Qué puede preparar una IA para que revises?
+6. ¿Qué decisiones requieren tu aprobación?
+7. ¿Qué información no debe compartirse?
+8. ¿Cómo preferís recibir los resultados?
 
-**After drafting:** Present the draft. Ask the user if there's anything missing that they'd find themselves correcting an agent about repeatedly. Those recurring corrections are exactly what this file is for.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Preferences and Constraints
+# Preferencias y límites
 
-## Hard Constraints
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-[Non-negotiable boundaries — time zones, availability windows, scheduling rules, things that are off limits. These are rules, not preferences.]
+## Disponibilidad y capacidad
 
-## Strong Preferences
+[Días, horarios, zona horaria, carga máxima y excepciones.]
 
-[Things you insist on but could theoretically flex on. Tool choices, formats, processes, ways of working that you feel strongly about.]
+## Condiciones de trabajo
 
-## Things I Hate
+[Alcance, revisiones, plazos, presupuestos y monedas. Si no están confirmados, dejalos pendientes.]
 
-[Specific things that bother you — meeting formats, communication patterns, jargon, AI output patterns. The stuff where your reaction is visceral.]
+## Preferencias
 
-## Personal Constraints
+[Formatos, herramientas y formas de coordinar que te resultan útiles.]
 
-[Anything about your personal life that affects your work and that you want agents to account for — family schedule, health considerations, location, travel restrictions. Only what you choose to share.]
+## La IA puede preparar
 
-## AI Output Preferences
+[Borradores, resúmenes y alternativas que después reviso.]
 
-[How you want AI-generated content formatted and delivered. Length, structure, level of detail, tone, formatting conventions.]
+## Requiere mi aprobación
+
+[Envíos, publicación, descuentos, compras, compromisos y cambios en registros; según el caso.]
+
+## Información reservada
+
+[Qué no se comparte y qué se reemplaza por alias o datos agregados.]
+
+## Formato de las respuestas
+
+[Extensión, estructura, detalle y forma de señalar lo que falta confirmar.]
 ```

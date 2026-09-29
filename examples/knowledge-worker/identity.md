@@ -1,13 +1,33 @@
-# Identity
+# Identidad y actividad
 
-**Name:** Sarah Chen
-**Role:** Senior Product Manager
-**Organization:** Meridian Health (Series B health tech, ~200 employees)
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-## What I Do
+**Responsable:** Lucía — arquitecta independiente
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-I run the patient engagement product line at a health tech company. That means I own the roadmap for how patients interact with their care team through our platform — scheduling, messaging, care plan tracking, and the notification system that ties it all together. Day to day, I'm splitting time between working with two engineering squads on active builds, talking to customers to understand what's working and what's not, and wrangling internal stakeholders who all want their thing prioritized. I spend more time in docs and Slack than I'd like, and not enough time watching people actually use the product.
+**Nombre:** Lucía
+**Rol:** Arquitecta independiente
+**Actividad:** Estudio unipersonal de reformas
+**Ubicación y alcance:** Córdoba y alrededores; visitas presenciales dentro de la zona acordada
 
-## What I'm Known For
+## Qué hago
 
-Turning messy, ambiguous problem spaces into clear product specs that engineers can actually build from. People come to me when they have a problem they can feel but can't articulate — I'm good at naming the thing and framing it as a solvable product problem.
+Ayudo a personas que quieren reformar una vivienda o un local pequeño. Relevo el espacio, traduzco sus necesidades en una propuesta y preparo la documentación acordada. Cuando el alcance lo incluye, coordino visitas de seguimiento con los proveedores. Divido mi semana entre proyectos, visitas y presupuestos; la administración también depende de mí.
+
+## A quién ayudo
+
+Trabajo con propietarios y pequeños comerciantes que necesitan entender qué pueden hacer, qué tienen que decidir y qué información falta antes de avanzar. La mayoría llega por recomendaciones.
+
+## Qué ofrezco
+
+Relevamiento, anteproyecto y documentación de reforma por etapas. Las visitas y la coordinación se presupuestan según cada encargo. Cada propuesta aclara entregables, cantidad de revisiones y exclusiones.
+
+## Por qué me eligen
+
+Explico alternativas con planos sencillos y una lista de decisiones pendientes. Dejo por escrito los acuerdos para reducir cambios de alcance durante el trabajo.
+
+## Qué no hago
+
+No vendo materiales ni ejecuto obra con personal propio. Los cálculos y especialidades que exceden mi alcance se coordinan con profesionales adecuados. No prometo costos de obra ni fechas de terceros sin verificarlos.

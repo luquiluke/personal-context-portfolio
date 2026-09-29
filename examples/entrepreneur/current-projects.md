@@ -1,37 +1,34 @@
-# Current Projects
+# Proyectos y trabajos en curso
 
-## Vextra Brand Strategy
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-**Description:** Full brand strategy and messaging for a Series A devtools startup. They have a working product but their positioning is "we do everything" and they need to pick a lane.
-**Status:** In progress — discovery complete, strategy draft this week, client workshop next week.
-**My Role:** Solo strategist.
-**Key Collaborators:** Their CEO (Amit) and head of marketing (Claire).
-**What Done Looks Like:** Approved positioning, messaging architecture, three key narratives, website copy outline. They should be able to hand this to any designer or developer and get a coherent website.
-**Priority:** Highest — biggest contract this quarter, due in two weeks.
+**Responsable:** Paula — dueña de una ferretería
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Baseform Content Retainer
+## Registrar pedidos de WhatsApp
 
-**Description:** Ongoing content production for a B2B data platform. Four thought leadership pieces per month plus a monthly newsletter.
-**Status:** Ongoing — been running for five months, in a good groove.
-**My Role:** Writer and content strategist. My competitor monitor agent feeds me topics and angles.
-**Key Collaborators:** Their CMO (Danielle), who reviews and approves.
-**What Done Looks Like:** This is recurring — "done" means consistent quality, on time, growing engagement metrics on their posts.
-**Priority:** High — reliable recurring revenue.
+**Descripción:** Usar un registro compartido para que cada pedido tenga estado y responsable.
+**Estado:** En curso.
+**Prioridad y motivo:** Alta; queremos evitar pedidos sin seguimiento.
+**Mi rol:** Definir estados y revisar la prueba.
+**Responsable y colaboradores:** Persona de atención asignada al canal por turno; yo reviso excepciones.
+**Resultado de cierre:** Todos los pedidos de una semana de prueba registrados como consulta, confirmado, preparado, retirado o cancelado.
+**Próxima acción:** Revisar el registro de los primeros dos días con el equipo.
+**Fecha:** 2026-10-02, revisión interna confirmada.
+**Dependencias / bloqueos:** Falta dejar claro quién toma el canal cuando la persona asignada está ocupada.
+**Alcance acordado:** Planilla simple y rutina de cierre; sin tienda en línea por ahora.
 
-## Agent Team Expansion
+## Revisar reposición de productos frecuentes
 
-**Description:** Building two new agents — a proposal drafting agent and a client onboarding agent.
-**Status:** Early — spec'd the proposal agent, haven't started the onboarding agent.
-**My Role:** Builder.
-**Key Collaborators:** Just me and Claude Code.
-**What Done Looks Like:** Proposal agent produces a solid first draft from a call transcript and my pricing matrix. Onboarding agent sends the welcome sequence, gathers brand assets, and creates the project workspace.
-**Priority:** Medium — important for scale but not revenue-generating directly.
-
-## Course on AI for Consultants
-
-**Description:** A cohort course teaching other solo consultants how to build an AI agent team for their practice.
-**Status:** Early — outline done, landing page drafted, haven't set a launch date.
-**My Role:** Creator and instructor.
-**Key Collaborators:** My accountability group is beta testing the outline.
-**What Done Looks Like:** First cohort of 15-20 people, 80%+ completion rate, at least 5 testimonials I can use.
-**Priority:** Low right now — want to finish agent expansion first so I'm teaching from current experience.
+**Descripción:** Elegir veinte productos de movimiento frecuente y revisar faltantes.
+**Estado:** Por iniciar.
+**Prioridad y motivo:** Media; depende de tener registros de ventas y stock consistentes.
+**Mi rol:** Selección y decisiones de compra.
+**Responsable y colaboradores:** Yo; equipo de atención verifica diferencias de stock.
+**Resultado de cierre:** Lista revisada con existencias verificadas y criterio de reposición por producto.
+**Próxima acción:** Extraer los registros y elegir los veinte productos.
+**Fecha:** 2026-10-15, tentativa.
+**Dependencias / bloqueos:** Verificar diferencias entre sistema y conteo físico.
+**Alcance acordado:** Análisis y propuesta; no emitir compras automáticas.

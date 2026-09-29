@@ -1,25 +1,36 @@
-# Role and Responsibilities
+# Rol y responsabilidades
 
-## Core Responsibilities
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Everything. I'm the strategist, the writer, the project manager, the accountant, the sales person, and the ops team. Specifically: client acquisition (mostly referrals and LinkedIn), brand strategy development, content production, client communication, invoicing, and managing my AI agent team. There's no one else — if I don't do it or my agents don't do it, it doesn't get done.
+**Responsable:** Paula — dueña de una ferretería
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Weekly Cadence
+## Responsabilidades principales
 
-Monday: review what my agents produced over the weekend (competitor reports, content digests, drafted social posts), plan the week, handle email. Tuesday-Thursday: deep work — strategy work and writing for active clients. I batch client calls on Tuesday and Thursday afternoons. Friday: admin (invoicing, proposals, LinkedIn content for my own brand), and agent maintenance (reviewing performance, adjusting instructions, building new agents).
+Yo reviso compras, precios y excepciones comerciales. Las dos personas de atención venden, preparan pedidos y registran faltantes. La administración externa ayuda con sus tareas específicas, pero las decisiones del negocio son mías.
 
-## Monthly / Quarterly Rhythms
+## Semana habitual
 
-Monthly: send invoices, review revenue against target, publish my monthly "build notes" post on LinkedIn about how I use AI in my studio. Quarterly: raise rates review (I increase my rate every quarter based on what the market will bear), evaluate which services to keep vs. drop, strategic planning for the business itself (not client work — my own business direction).
+Cada mañana revisamos pedidos pendientes y faltantes. Dedico dos bloques semanales a compras y proveedores. Durante la atención cubro las consultas que requieren revisar una especificación. Al cierre revisamos que los pedidos preparados tengan estado actualizado.
 
-## Key Decisions
+## Ritmos mensuales y temporadas
 
-Which clients to take on (I say no to about half of inbound). How to scope and price engagements. When to use AI for a deliverable vs. do it entirely myself. What to delegate to agents vs. keep human. How much to invest in building new agents vs. doing billable work.
+Reviso productos con movimiento lento y errores de stock una vez al mes. Antes de comprar para una temporada, miro ventas del negocio y condiciones actuales del proveedor; no repongo sólo por costumbre.
 
-## What I Produce
+## Decisiones habituales
 
-Brand strategy documents, positioning frameworks, messaging architectures, website copy, launch email sequences, founder thought leadership posts, content calendars, competitive analyses. For my own business: LinkedIn posts, monthly build notes, proposals, invoices.
+Cuánto reponer, qué encargos especiales aceptar y cómo resolver una diferencia de precio o disponibilidad. El equipo puede confirmar pedidos con los datos vigentes; las excepciones requieren mi intervención.
 
-## Reporting Structure
+## Entregables
 
-I report to no one. My clients are my bosses, but loosely. I have a business coach I meet with monthly and a small group of other solo consultants I meet with biweekly for accountability.
+Pedidos preparados, cotizaciones revisadas, órdenes de compra y una lista de faltantes priorizada.
+
+## Delegación y coordinación
+
+Las dos personas de atención se reparten mostrador y pedidos según demanda. Yo cubro compras y excepciones. Necesitamos registrar el estado para que cualquiera pueda continuar una consulta.
+
+## Cuello de botella principal
+
+Un pedido iniciado por WhatsApp puede quedar sin registrar si entran varios clientes al local. Después se repiten consultas o se promete un producto que todavía no verificamos.

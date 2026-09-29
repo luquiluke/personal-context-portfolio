@@ -1,27 +1,36 @@
-# Role and Responsibilities
+# Rol y responsabilidades
 
-## Core Responsibilities
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-I own the patient engagement product line end to end — roadmap, prioritization, specs, launch, and post-launch iteration. I'm accountable for feature adoption metrics and patient satisfaction scores for everything in my product area. If patient engagement numbers go down, that's my problem to diagnose and fix.
+**Responsable:** Lucía — arquitecta independiente
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-I also own the relationship with our three largest health system customers on the engagement side. Not sales — that's account management — but product relationship. When they have feature requests, concerns, or want to understand our roadmap, I'm the product person they talk to.
+## Responsabilidades principales
 
-## Weekly Cadence
+Soy responsable de las propuestas, el desarrollo de los proyectos y la comunicación con cada cliente. También preparo presupuestos, coordino mi agenda y hago seguimiento de los pagos de mis servicios. Los contratistas responden por su ejecución dentro de lo que acuerden con el cliente.
 
-Monday: squad standup with Team Coral (messaging/notifications), 1:1 with my engineering lead James, product team sync with the other PMs and our VP. Tuesday: squad standup with Team Reef (scheduling/care plans), customer office hours (rotating slot with our top accounts). Wednesday: design review, usually 1-2 spec reviews. Thursday: sprint planning for whichever squad is starting a new sprint, stakeholder time (clinical team, compliance, customer success — whoever needs product attention). Friday: mostly heads-down writing — specs, roadmap updates, customer summaries.
+## Semana habitual
 
-## Monthly / Quarterly Rhythms
+Lunes por la mañana: revisar entregas y documentación pendiente. Martes y jueves: visitas previamente coordinadas. Miércoles y viernes: bloques de proyecto y reuniones de revisión. Reservo el viernes por la tarde para administración y seguimientos comerciales.
 
-Monthly business review where I present engagement metrics to leadership. Quarterly roadmap planning cycle — two weeks of intake, one week of prioritization, one week of alignment with engineering. Annual customer advisory board in October where I present the year-ahead vision and get direct feedback.
+## Ritmos mensuales y temporadas
 
-## Key Decisions
+Reviso horas dedicadas a cada encargo y trabajos por cobrar al cierre de cada mes. Antes de aceptar nuevas visitas, verifico si se superponen con entregas ya comprometidas.
 
-What goes into each sprint and what doesn't. When to push back on a customer request vs. accommodate it. When a feature is ready to ship vs. needs more iteration. How to split engineering capacity between new features and tech debt.
+## Decisiones habituales
 
-## What I Produce
+Decido qué encargos puedo tomar, qué consultas requieren una visita y cuándo un pedido modifica el alcance. Cualquier ampliación queda presupuestada antes de incorporarla.
 
-Product specs (our format is a structured doc with problem statement, proposed solution, success metrics, and open questions). Roadmap updates in Productboard. Sprint tickets in Linear. Customer-facing release notes. Monthly engagement reports. Quarterly planning docs.
+## Entregables
 
-## Reporting Structure
+Propuestas de servicio, planos, registros de decisiones y resúmenes de reunión. El detalle depende del contrato de cada encargo.
 
-I report to Priya Patel, VP of Product. Two engineering squads (Team Coral and Team Reef) work on my product area — I don't manage the engineers, but I set their priorities. One product designer, Maya, is embedded with my squads.
+## Delegación y coordinación
+
+No tengo empleados. Una dibujante externa colabora por encargo y una contadora me ayuda con la administración que requiere su intervención. Yo reviso las entregas al cliente.
+
+## Cuello de botella principal
+
+Los cambios que llegan por mensajes sueltos interrumpen el trabajo y después son difíciles de reconstruir. Necesito reunirlos y confirmar cuáles están incluidos.

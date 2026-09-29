@@ -1,23 +1,38 @@
-# Domain Knowledge
+# Conocimiento del rubro
 
-## Areas of Expertise
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Health tech product management — specifically the patient engagement space. I understand EHR integration patterns, HIPAA compliance requirements for digital health features, patient communication workflows, and how clinical operations actually work inside a health system (not just how they're supposed to work). I've been in health tech for six years and have shipped products at two companies in this space.
+**Responsable:** Lucía — arquitecta independiente
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-Product management methodology — I can teach someone how to write a spec, run a sprint, prioritize a roadmap, and do customer discovery. I've mentored three junior PMs.
+## Mi experiencia
 
-## Key Terminology
+Trabajo en relevamientos y proyectos de reforma de viviendas y locales pequeños. Sé convertir necesidades poco definidas en alternativas que el cliente pueda comparar.
 
-Terms I use without needing definitions: EHR, EMR, HL7, FHIR, HIPAA, PHI, BAA, care plan, care team, patient engagement, clinical workflow, provider burnout, patient portal, interoperability, Epic, Cerner, Meditech, ADT feed, CDS, SDOH. In product: PRD, sprint, backlog, grooming, velocity, OKR, north star metric, activation, retention, DAU/MAU, cohort analysis, feature flag, canary release.
+## Términos del rubro
 
-## Industry Context
+- **Relevamiento:** Registro del estado existente y las medidas necesarias para el encargo.
+- **Anteproyecto:** Etapa de definición inicial de la propuesta.
+- **Alcance:** Trabajo y entregables incluidos en un acuerdo concreto.
 
-Health tech moves slower than consumer tech because of compliance, procurement cycles, and clinical validation requirements. A "fast" sales cycle with a health system is 6 months. Integration with EHRs is the biggest technical bottleneck in the industry — Epic and Cerner control the market and their APIs are improving but still painful. Clinician buy-in matters as much as admin buy-in — a feature that administrators love but nurses hate will fail. Patients are not "users" in the consumer sense — they're often stressed, sick, or managing chronic conditions, and the tolerance for friction is very low.
+## Particularidades del negocio
 
-## Frameworks and Mental Models
+En mis encargos, una decisión tardía del cliente puede afectar otras etapas. Las fechas de proveedores son dependencias, no plazos que yo pueda garantizar. Una imagen de referencia no alcanza para definir una solución ejecutable.
 
-Jobs-to-be-done for customer discovery. RICE scoring for prioritization (Reach, Impact, Confidence, Effort). I think about features in terms of "table stakes vs. differentiators vs. delighters." I use the "one-way door / two-way door" framework for deciding how much deliberation a decision needs.
+## Criterios de calidad
 
-## Where I'm a Beginner
+Verifico que la documentación sea coherente entre sí, que responda a lo acordado y que no oculte decisiones pendientes. No doy por comprobada una medida estimada.
 
-AI and machine learning — I understand the concepts but don't know the technical implementation details. I want to learn how to use AI tools in my own workflow and how to think about AI-powered features in our product. Also relatively new to data infrastructure — I rely on our analytics team for complex queries and would like to be more self-sufficient.
+## Método de trabajo
+
+Primero entiendo el uso del espacio, después relevo y preparo alternativas. Registro la opción elegida y los cambios antes de avanzar a la documentación siguiente.
+
+## Información que requiere verificación
+
+Requisitos locales, permisos, intervenciones de especialistas y condiciones de proveedores se verifican para cada caso con fuentes y responsables correspondientes. Este archivo no contiene una guía normativa ni autoriza a la IA a decidirlos.
+
+## Dónde necesito más explicación
+
+Quiero aprender a organizar mejor consultas y seguimientos con herramientas simples. Prefiero instrucciones paso a paso y ejemplos antes que siglas técnicas.

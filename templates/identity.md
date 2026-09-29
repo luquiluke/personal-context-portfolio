@@ -1,44 +1,65 @@
-# Identity
+# Identidad y actividad
 
-## What This File Is For
+## Para qué sirve
 
-This is the minimum viable context file. If an agent could only read one file about you, this is it. It tells any AI system who you are, what you do, and what you're known for — enough to have a useful first interaction without reading anything else.
+Resume quién sos, qué ofrecés y a quién ayudás. Es el primer archivo que conviene darle a una IA que va a trabajar con vos.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `identity.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their identity file — a short, dense context document that captures who they are. Ask the following questions one at a time. Don't ask them all at once. When you have enough to draft, stop asking and draft the file using the output structure below.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+Si sos profesional, diferenciá especialidad y servicios. Si tenés una pyme, registrá rubro, alcance geográfico y tamaño aproximado sólo si los confirmás. No inventes trayectoria ni ventajas competitivas.
 
-1. What's your name and what's your current role or title?
-2. What organization or company are you with, if any?
-3. If you had to explain what you actually do to someone at a dinner party — not your title, but what you actually spend your time on — what would you say?
-4. What do people come to you for? What's the thing where someone says "you should talk to [your name] about that"?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After 3-4 questions. This file should be short — a few lines of facts and one solid paragraph. Don't pad it.
+1. ¿A qué te dedicás hoy?
+2. ¿Cómo querés que te llame?
+3. ¿Trabajás por tu cuenta o dentro de un negocio?
+4. ¿Qué tipo de clientes atendés?
+5. ¿Qué problema te buscan para resolver?
+6. ¿Qué servicios o productos ofrecés?
+7. ¿Qué queda fuera de tu actividad?
 
-**After drafting:** Present the draft and ask the user to identify anything that doesn't sound right or feels off. Revise based on their feedback.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Identity
+# Identidad y actividad
 
-**Name:** [Full name]
-**Role:** [Current title or role]
-**Organization:** [Company, team, or "Independent"]
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-## What I Do
+**Nombre o alias:** [Cómo querés que te llamen]
+**Rol:** [Tu función real]
+**Actividad / negocio:** [Nombre, alias o «Independiente»]
+**Ubicación y alcance:** [Dónde trabajás / presencial o remoto]
 
-[One paragraph — plain language, not a job description. What you actually spend your time on, explained so a smart stranger would get it.]
+## Qué hago
 
-## What I'm Known For
+[Un párrafo con tu actividad cotidiana y el valor que aportás.]
 
-[1-3 sentences. What people come to you for. Your signature skill, perspective, or domain.]
+## A quién ayudo
+
+[Tipos de clientes, necesidad principal y cómo suelen llegar. Sin datos identificatorios.]
+
+## Qué ofrezco
+
+[Servicios o productos principales, modalidad de trabajo y alcance habitual.]
+
+## Por qué me eligen
+
+[Diferenciales concretos que puedas respaldar; si no están claros, «Por confirmar».]
+
+## Qué no hago
+
+[Especialidades, servicios, zonas o pedidos que no atendés.]
 ```

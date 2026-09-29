@@ -1,30 +1,34 @@
-# Current Projects
+# Proyectos y trabajos en curso
 
-## Async Messaging V2
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-**Description:** Rebuilding our patient-provider messaging to support threaded conversations, attachments, and care team routing.
-**Status:** In Progress — backend done, frontend in active build, targeting end of Q2 launch.
-**My Role:** Product owner. Wrote the spec, running the sprints, managing the beta.
-**Key Collaborators:** James (eng lead), Maya (design), Dr. Okafor (clinical advisor for message triage logic).
-**What Done Looks Like:** Live in production with our three pilot health systems, message volume up 30% from current baseline, clinical staff satisfaction score above 4.0.
-**Priority:** Highest — this is the big bet for the half.
-**Notes:** The care team routing logic is the hardest part. We're on our third iteration of the rules engine. Dr. Okafor keeps finding edge cases.
+**Responsable:** Lucía — arquitecta independiente
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Notification Preferences Overhaul
+## Reforma Vivienda A
 
-**Description:** Letting patients control what notifications they get, through which channels, and when.
-**Status:** Early — spec approved, design in progress, engineering starts next sprint.
-**My Role:** Product owner.
-**Key Collaborators:** Maya (design), Team Coral (will build it).
-**What Done Looks Like:** Patients can set granular preferences, opt-out rates drop below 5%, zero compliance issues.
-**Priority:** High — customers are asking for this loudly.
+**Descripción:** Preparar el anteproyecto de cocina y espacio de estar.
+**Estado:** En revisión.
+**Prioridad y motivo:** Alta; hay una reunión de decisión confirmada.
+**Mi rol:** Diseño y coordinación de la revisión.
+**Responsable y colaboradores:** Yo; Cliente A valida las decisiones; dibujante externa prepara láminas revisadas por mí.
+**Resultado de cierre:** Alternativa elegida y observaciones de esta etapa confirmadas por el cliente.
+**Próxima acción:** Consolidar las preguntas para la reunión; responsable: yo.
+**Fecha:** 2026-10-02, reunión confirmada. La entrega siguiente depende de esa validación.
+**Dependencias / bloqueos:** Falta confirmar una medida antes de cerrar la propuesta.
+**Alcance acordado:** Dos alternativas de distribución y una ronda de ajustes. Cambios adicionales se evalúan por separado.
 
-## Care Plan Tracking Pilot
+## Relevamiento Local B
 
-**Description:** A new feature letting patients see their care plan milestones and progress in-app.
-**Status:** Stalled — waiting on API access from two EHR partners.
-**My Role:** Product owner, also doing the partnership negotiation for the API access.
-**Key Collaborators:** Team Reef, our integrations engineer Tomás, partner contacts at Epic and Cerner.
-**What Done Looks Like:** Working prototype with one health system's real care plan data flowing through.
-**Priority:** Medium — important strategically but blocked by external dependencies.
-**Notes:** I've been going back and forth with Epic for six weeks. Their timeline keeps slipping.
+**Descripción:** Documentar el estado del local para definir una propuesta de reforma.
+**Estado:** Por iniciar.
+**Prioridad y motivo:** Media; falta confirmar acceso al inmueble.
+**Mi rol:** Relevamiento y propuesta de etapas.
+**Responsable y colaboradores:** Yo; Cliente B coordina acceso.
+**Resultado de cierre:** Relevamiento completo y propuesta de servicio enviada por mí después de revisar alcance y honorarios.
+**Próxima acción:** Pedir confirmación de acceso a Cliente B.
+**Fecha:** 2026-10-06, tentativa; no prometerla todavía.
+**Dependencias / bloqueos:** Acceso y documentación disponible del inmueble.
+**Alcance acordado:** Visita y relevamiento; el desarrollo del proyecto requiere otro acuerdo.

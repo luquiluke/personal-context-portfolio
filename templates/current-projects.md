@@ -1,45 +1,57 @@
-# Current Projects
+# Proyectos y trabajos en curso
 
-## What This File Is For
+## Para qué sirve
 
-This is the file that changes most often. It captures your active workstreams — what you're working on, where each thing stands, and what matters about each one. Agents use this to understand your current context so they can ask relevant questions, make useful suggestions, and avoid wasting your time on things that aren't active. Update this whenever projects start, finish, or shift priority.
+Ordena los trabajos activos, las entregas y las mejoras del negocio. Conviene actualizarlo cada vez que cambie un compromiso.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `current-projects.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their current projects file. Start by getting the full list, then go through each project in sequence. Use what you already know from previous files to avoid redundant questions — if they mentioned projects during the role interview, reference them here.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+Recorré cada trabajo por separado. Separá operación recurrente de proyectos con cierre. No conviertas una fecha deseada en un compromiso: identificá confirmadas y tentativas.
 
-1. What are you actively working on right now? List them out — project names or short descriptions, whatever comes naturally.
-2. [For each project, in sequence:] Tell me about [project]. What is it, where does it stand, and what does done look like?
-3. Who are you working with on [project]?
-4. If you had to rank these by priority right now, how would they stack up?
-5. Is anything stalled or blocked? What's the situation there?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After you've covered each project the user named. Don't force a specific number — some people have three active projects, some have twelve.
+1. ¿Qué trabajos o iniciativas tenés activos?
+2. ¿Cuál necesita atención primero?
+3. ¿En qué estado está este trabajo?
+4. ¿Qué resultado permitiría darlo por terminado?
+5. ¿Quién es responsable de que avance?
+6. ¿Cuál es la próxima acción concreta?
+7. ¿Qué fecha está confirmada?
+8. ¿Qué lo está trabando?
 
-**After drafting:** Present the draft and ask the user to check the status and priority rankings especially. Those are the things most likely to be slightly off.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Current Projects
+# Proyectos y trabajos en curso
 
-[Repeat this block for each active project, ordered by priority.]
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-## [Project Name]
+[Repetí este bloque por cada trabajo, en orden de prioridad.]
 
-**Description:** [One line — what this project is.]
-**Status:** [Early / In Progress / Wrapping Up / Stalled / On Hold]
-**My Role:** [What you specifically do on this project.]
-**Key Collaborators:** [Names and their roles on this project.]
-**What Done Looks Like:** [The concrete outcome that means this is finished.]
-**Priority:** [Relative to other projects — highest, high, medium, low.]
-**Notes:** [Anything else an agent should know — blockers, dependencies, upcoming deadlines.]
+## [Trabajo / proyecto y alias del cliente, si corresponde]
+
+**Descripción:** [Qué hay que resolver]
+**Estado:** [Por iniciar / En curso / En revisión / Bloqueado / En pausa]
+**Prioridad y motivo:** [Alta, media o baja; por qué]
+**Mi rol:** [Qué hago yo]
+**Responsable y colaboradores:** [Roles o alias]
+**Resultado de cierre:** [Entregable y criterio de aceptación]
+**Próxima acción:** [Acción concreta y responsable]
+**Fecha:** [AAAA-MM-DD; confirmada o tentativa, o «Por confirmar»]
+**Dependencias / bloqueos:** [Qué falta y de quién depende]
+**Alcance acordado:** [Qué incluye y qué requiere un nuevo acuerdo]
+**Notas:** [Información necesaria para avanzar, sin datos sensibles]
 ```

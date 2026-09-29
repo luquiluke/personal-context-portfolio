@@ -1,58 +1,68 @@
-# Role and Responsibilities
+# Rol y responsabilidades
 
-## What This File Is For
+## Para qué sirve
 
-This is an operational description of your work — what your weeks actually look like, what you're accountable for, what you produce. Agents use this to understand the rhythm and shape of your job so they can help with the right things at the right times. It's not a job description. It's a field guide to how you actually spend your days.
+Describe cómo funciona tu semana: atención, ejecución, administración y decisiones. Ayuda a proponer mejoras que entren en tu capacidad real.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `role-and-responsibilities.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their role and responsibilities file. This should capture the operational reality of their work, not the idealized version. Ask the following questions one at a time. Use what you already know from the identity file (if completed) to skip redundant questions and ask better follow-ups.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+No presupongas una estructura jerárquica. Incluí ventas, presupuestos, facturación, cobros, compras o coordinación cuando sean parte del trabajo. Pedí un ejemplo del cuello de botella principal.
 
-1. Walk me through a typical week. What are the recurring things that happen every week without fail?
-2. What are you directly accountable for — what are the things where if they don't happen, it's on you?
-3. What decisions do you make regularly? Not the big strategic ones — the routine ones that come up every week.
-4. What do you produce? Reports, analyses, plans, code, presentations — what are the actual outputs of your work?
-5. Who do you report to? Who reports to you, if anyone?
-6. Are there monthly or quarterly rhythms that shape your work — planning cycles, reviews, board meetings, anything like that?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After 4-6 questions. This file is medium length. Capture the operational reality, not every edge case.
+1. ¿Cómo transcurre una semana habitual de trabajo?
+2. ¿Qué resultados dependen directamente de vos?
+3. ¿Qué tareas repetís más seguido?
+4. ¿Qué entregás a tus clientes o a tu equipo?
+5. ¿Qué decisiones tomás vos?
+6. ¿Qué podés delegar hoy?
+7. ¿Qué cambia en los momentos de mayor demanda?
 
-**After drafting:** Present the draft and ask the user to identify anything that doesn't sound right. Pay particular attention to whether the cadences and rhythms are accurate — people often forget recurring obligations until they see them missing.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Role and Responsibilities
+# Rol y responsabilidades
 
-## Core Responsibilities
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-[What you're accountable for — the things that are unambiguously on you.]
+## Responsabilidades principales
 
-## Weekly Cadence
+[Qué depende de vos y qué depende de otra persona.]
 
-[Recurring meetings, check-ins, deadlines, rituals. The skeleton of a typical week.]
+## Semana habitual
 
-## Monthly / Quarterly Rhythms
+[Bloques de atención, producción, administración y coordinación; frecuencia y duración aproximada.]
 
-[Planning cycles, reviews, reporting periods, seasonal patterns. The bigger loops.]
+## Ritmos mensuales y temporadas
 
-## Key Decisions
+[Cierres, revisiones, compras recurrentes y épocas de mayor demanda.]
 
-[The decisions you make regularly — what comes across your desk that requires your judgment.]
+## Decisiones habituales
 
-## What I Produce
+[Qué decidís, con qué criterio y qué necesitás consultar.]
 
-[Your outputs — deliverables, artifacts, reports, plans, code, whatever you create as part of your work.]
+## Entregables
 
-## Reporting Structure
+[Informes, propuestas, trabajos terminados, pedidos preparados u otros resultados concretos.]
 
-[Who you report to, who reports to you. Keep it simple — names and roles.]
+## Delegación y coordinación
+
+[Quién hace qué. Si trabajás solo, dejalo indicado.]
+
+## Cuello de botella principal
+
+[Qué se acumula o te interrumpe y qué efecto tiene.]
 ```

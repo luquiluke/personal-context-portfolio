@@ -1,72 +1,61 @@
-# Getting Started
+# Empezá por acá
 
-Two paths to building your personal context portfolio. Pick whichever fits.
+Elegí una tarea en la que quieras recibir mejor ayuda: responder una consulta, preparar una propuesta o acomodar tu semana. Ese caso te va a servir para probar el resultado.
 
----
+## 1. Prepará tu carpeta privada
 
-## Path 1: Use the Web App
+Creá una carpeta llamada `mi-contexto` fuera de este repositorio público. Si acompañás a varios clientes, usá una carpeta independiente para cada uno y compartila sólo con las personas que corresponda. No mezcles sus respuestas.
 
-The fastest way. A purpose-built interviewer agent handles the whole process.
+No necesitás una cuenta de GitHub: podés abrir las plantillas desde los enlaces y copiar su contenido. Si preferís descargarlas juntas, usá **Code → Download ZIP** en el repositorio y descomprimí el archivo.
 
-1. Go to [app URL].
-2. Sign in with your email (magic link, no password needed).
-3. The agent introduces itself and starts the interview.
-4. It works through all ten files in sequence — asking you questions, drafting each file, and asking you to correct what it got wrong.
-5. You can stop after any file and come back later. It picks up where you left off.
-6. When you're done, download your complete portfolio as a zip.
+## 2. Armá los primeros tres documentos
 
-The whole thing takes 30-60 minutes if you do it in one sitting. Most people spread it across a few sessions.
+Empezá por estas plantillas, en este orden:
 
----
+1. [Identidad y actividad](templates/identity.md).
+2. [Estilo de comunicación](templates/communication-style.md).
+3. [Preferencias y límites](templates/preferences-and-constraints.md).
 
-## Path 2: Do It Yourself
+Copiá una plantilla completa en una conversación con la IA que uses y agregá:
 
-Fork this repo and work through the templates with your own AI build partner (Claude, ChatGPT, or whatever you use).
+> Ayudame a completar esta plantilla. Hablame de vos, en español rioplatense. Haceme una pregunta por vez y usá ejemplos de mi actividad. No inventes respuestas: si falta un dato, dejalo como «Por confirmar». Mostrame el borrador para que lo corrija antes de darlo por terminado.
 
-1. Fork or clone this repo.
-2. Open any template file from `/templates`.
-3. Copy the entire file and paste it to your AI build partner.
-4. Say "let's do this one."
-5. Your build partner will read the interview protocol embedded in the template and start asking you questions.
-6. When it has enough, it'll draft the file. Read the draft and tell it what's wrong.
-7. Save the final version. Move to the next template.
+Respondé como hablarías con alguien que recién empieza a trabajar con vos. Usá alias para clientes y ejemplos sin datos sensibles. Podés saltear una pregunta o pausar cuando quieras.
 
-**Recommended order:** Start with `identity.md` and `role-and-responsibilities.md`. Everything else builds on those two. After that, the order matters less — go with whatever feels most relevant to your work right now.
+Leé el borrador: corregí lo que no te represente, verificá los datos y aprobá la versión final. Guardá **sólo el documento resultante**, sin las preguntas de la plantilla, con el nombre indicado, por ejemplo `identity.md`. Un editor de texto común alcanza; verificá que no termine en `.md.txt`.
 
-**Suggested full sequence:**
+También podés completar la estructura a mano. No hace falta una entrevista con IA.
 
-1. `identity.md`
-2. `role-and-responsibilities.md`
-3. `current-projects.md`
-4. `team-and-relationships.md`
-5. `tools-and-systems.md`
-6. `communication-style.md`
-7. `goals-and-priorities.md`
-8. `preferences-and-constraints.md`
-9. `domain-knowledge.md`
-10. `decision-log.md`
+## 3. Probalo con trabajo real
 
----
+Adjuntá los tres archivos aprobados a un chat nuevo o pegá su contenido. Pedile:
 
-## After You Build It
+> Usá mi contexto para redactar una respuesta a esta consulta: [pegá una consulta anonimizada]. Dejá como pendientes los precios, plazos o condiciones que no estén confirmados. Prepará un borrador para revisar.
 
-Your portfolio is a set of markdown files. That's the point — they're portable. But they don't do anything until you wire them into the tools you actually use.
+Comprobá si suena como vos, entiende qué ofrecés y respeta tus límites. Si falla, corregí el archivo correspondiente y repetí la prueba. La IA no necesita saber todo sobre vos para ayudarte con una tarea concreta.
 
-The `/wiring` directory has guides for:
+## 4. Completá el resto según tu actividad
 
-- Exposing your portfolio as an MCP resource
-- Using it in Claude Projects
-- Connecting it to OpenClaw agents
-- Copy-paste patterns for system prompts
-- Building an API layer
+| Si necesitás… | Sumá… |
+| --- | --- |
+| Organizar tu carga de trabajo | [Responsabilidades](templates/role-and-responsibilities.md) y [proyectos](templates/current-projects.md) |
+| Coordinar con otras personas | [Equipo y vínculos](templates/team-and-relationships.md) |
+| Encontrar la fuente correcta de información | [Herramientas](templates/tools-and-systems.md) |
+| Ordenar prioridades y evaluar alternativas | [Objetivos](templates/goals-and-priorities.md) y [decisiones](templates/decision-log.md) |
+| Darle criterio del rubro a la IA | [Conocimiento del rubro](templates/domain-knowledge.md) |
 
-This is the part that turns your portfolio from "a nice set of documents" into actual infrastructure. Start with whatever tool you use most.
+Para una entrevista completa, copiá las [instrucciones del entrevistador](interview-protocol/agent-system-prompt.md) junto con las diez plantillas. Podés dividirla en varias sesiones; al terminar, pedí un resumen de avance para retomar. Este kit no incluye una aplicación web ni guarda automáticamente tu progreso.
 
----
+## 5. Usalo donde ya trabajás
 
-## Tips
+La [guía de conexión](wiring/README.md) explica cómo usar los archivos en un chat, en un proyecto de ChatGPT o Claude, o en una integración propia. Copiar y pegar alcanza para empezar.
 
-- **Be specific, not aspirational.** The portfolio should describe how you actually work, not how you wish you worked. Your agents need ground truth.
-- **Don't skip the reaction pass.** When your build partner drafts a file, read it and find what's wrong. The corrections are where the real signal is. A rubber-stamped draft is a mediocre file.
-- **Short is better than long.** A good context file is one page, not five. Agents perform better with dense, high-signal context than with sprawling documents.
-- **Update regularly.** Projects change, priorities shift, you learn new tools. A portfolio that's six months stale is worse than no portfolio — it gives your agents confident but wrong context.
+## 6. Mantenelo al día
+
+- **Cada semana:** actualizá estados, fechas y próximos pasos de trabajos activos.
+- **Cada mes:** revisá prioridades, capacidad disponible y decisiones abiertas.
+- **Cuando cambie algo:** actualizá servicios, personas, herramientas o condiciones comerciales.
+
+En cada documento anotá responsable, fecha, estado y quién puede verlo. Usá `AAAA-MM-DD` para evitar confusiones de fecha, la moneda explícita (`ARS`, `USD`, etc.) para importes y la zona horaria cuando importe. Si un valor no está confirmado, no lo completes por intuición.
+
+Una copia adjuntada o pegada no se actualiza sola: reemplazala cuando cambie el original. Conservá la última versión aprobada para poder recuperar un cambio equivocado.

@@ -1,25 +1,37 @@
-# Communication Style
+# Estilo de comunicación
 
-## Overall Style
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-Direct, structured, and economical. I say what I mean and I expect the same. I'm warm with my team in 1:1s and more buttoned-up in exec contexts, but never corporate. I'd rather be blunt and kind than diplomatic and vague.
+**Responsable:** Martín — dueño de una pyme de mantenimiento
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-## Writing Tendencies
+## Mi tono habitual
 
-I write in short paragraphs. Rarely more than three sentences in a row. I use a lot of colons to set up key points — like this. My emails are structured: context, the ask, the deadline. I bold action items. My weekly CEO updates are always the same format: five bullets, each one sentence, with a one-line "flag" section if something needs attention.
+Directo, cordial y concreto. Quiero que el cliente entienda qué se hizo, qué queda pendiente y de quién depende. No minimizo un problema ni lo lleno de explicaciones defensivas.
 
-## Formatting Preferences
+## Tratamiento y vocabulario
 
-I structure docs with clear sections and use bold headers. For status updates: bullet points, always. For strategic docs: numbered sections with short paragraphs. I never write more than one page unless it's a planning doc. I use tables when comparing options — three columns: option, pros, cons.
+Uso vos con clientes habituales; respeto usted cuando así se relacionan con nosotros. Explico términos técnicos si afectan una decisión. No uso «urgente» para todo.
 
-## What I Dislike
+## Según el canal
 
-Meandering emails where I can't find the ask. "Per my last email" and other passive-aggressive corporate phrases. Overuse of exclamation points. Unnecessary qualifiers — "I think maybe we should consider possibly..." Just say what you think. AI text that says "I'd be happy to" or "Great question!" or uses "leverage" as a verb.
+**WhatsApp:** Coordinación breve, sin confirmar disponibilidad que todavía no revisamos.
+**Correo:** Asunto identificable; resumen, tareas, pendientes y próximo paso.
+**Propuestas:** Alcance, materiales incluidos o excluidos, plazos y condiciones verificadas.
+**Equipo:** Tarea, responsable, fecha y criterio de cierre.
 
-## By Context
+## Frases que uso y que evito
 
-With my leads: direct, informal, sometimes blunt. I'll say "this isn't good enough, here's why" in a 1:1 — with care, but without softening it to the point where the message is lost. With the CEO: structured, concise, always framed in business impact. "We need two more engineers because without them we'll miss the Q3 launch, which costs us $X in delayed revenue." With the full engineering org: more motivational, more narrative — I tell stories in all-hands, not just report metrics. With candidates: genuine, enthusiastic about the work, honest about challenges.
+Uso «Queda pendiente…», «Para confirmarte la visita necesito…» y «Esto requiere una aprobación adicional». Evito «lo resolvemos seguro hoy» si no revisé el caso.
 
-## Signature Patterns
+## Ejemplos de mi voz
 
-I start hard conversations with "Here's where I am on this." I end most 1:1s with "What do you need from me this week?" I say "the tradeoff is" constantly. When I disagree, I say "I see it differently" rather than "I disagree." I never say "bandwidth," "move the needle," or "low-hanging fruit."
+**Primera respuesta:** «Hola, contame qué necesitás revisar en el local. Con esa información vemos si corresponde una visita de diagnóstico».
+**Seguimiento:** «Te comparto el resumen de la visita. El trabajo previsto está cerrado; el punto adicional queda pendiente de presupuesto».
+**Límite:** «No puedo confirmarte ese horario todavía. Primero necesito verificar disponibilidad del equipo y materiales».
+
+## Antes de enviar
+
+Verificar estado de la orden, destinatario y compromiso asumido. Las propuestas y excepciones comerciales las apruebo yo.

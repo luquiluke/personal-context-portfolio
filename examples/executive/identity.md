@@ -1,13 +1,33 @@
-# Identity
+# Identidad y actividad
 
-**Name:** Marcus Webb
-**Role:** VP of Engineering
-**Organization:** Conduit Financial (Series C fintech, ~400 employees)
+> Ejemplo ficticio. Personas, negocios, cifras y situaciones son ilustrativos; no corresponden a un cliente real ni describen tu actividad.
 
-## What I Do
+**Responsable:** Martín — dueño de una pyme de mantenimiento
+**Actualizado:** 2026-09-29
+**Estado:** Ejemplo completo para adaptar; no es contexto aprobado de un cliente
+**Compartir con:** Uso público como material de ejemplo
 
-I lead the engineering organization at a fintech company that builds payment infrastructure for B2B marketplaces. I have 60 engineers across six teams. My job is three things at once: making sure our platform stays reliable and secure (we process real money, downtime costs real dollars), making sure we're building the right things fast enough to hit our growth targets, and building an engineering culture that retains good people. I spend most of my time in 1:1s, planning meetings, and cross-functional alignment. I write very little code now but I review architecture decisions and stay close enough to the technical details to make good tradeoffs.
+**Nombre:** Martín
+**Rol:** Dueño y responsable de operaciones
+**Negocio:** Mantenimiento Sur, empresa ficticia
+**Ubicación y alcance:** Rosario y zona acordada con cada cliente
 
-## What I'm Known For
+## Qué hago
 
-Scaling engineering organizations through growth phases without letting quality collapse. I've done it twice — took a team from 15 to 60 here, and previously grew a team from 8 to 40 at my last company. People also come to me for hard conversations — performance issues, reorgs, team conflicts. I'm direct and I don't avoid the uncomfortable stuff.
+Dirijo una empresa de mantenimiento para locales y pequeñas oficinas. Somos ocho personas en total: yo, una coordinadora y seis técnicos. Organizamos visitas programadas y trabajos puntuales dentro de nuestras especialidades. Me ocupo de presupuestos, compras relevantes y coordinación con los clientes cuando cambia un compromiso.
+
+## A quién ayudo
+
+Atendemos negocios que necesitan mantener sus instalaciones sin tener un equipo propio. Nos contratan dueños o responsables de administración que valoran saber qué se va a hacer y cuándo.
+
+## Qué ofrezco
+
+Mantenimiento programado y trabajos puntuales presupuestados por alcance. Cada acuerdo define las tareas, los materiales y las exclusiones. La visita de diagnóstico y la ejecución pueden ser etapas separadas.
+
+## Por qué nos eligen
+
+Dejamos un registro del trabajo y avisamos cuando aparece algo que cambia el alcance. Una persona coordina la visita y mantiene informado al cliente.
+
+## Qué no hacemos
+
+No ofrecemos atención permanente las 24 horas ni prometemos resolver cualquier especialidad. Derivamos trabajos fuera de la capacidad o habilitación que corresponda verificar en cada caso.

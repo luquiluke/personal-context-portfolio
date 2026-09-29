@@ -1,40 +1,30 @@
-# Wiring: Connect Your Portfolio to OpenClaw Agents
+# Integración opcional: contexto para un agente OpenClaw
 
-## What This Does
+Usá esta guía si ya tenés OpenClaw configurado. Para empezar sin instalación, alcanza con los [pedidos para copiar y pegar](system-prompt-patterns.md).
 
-OpenClaw agents can read files from connected data sources. By connecting your portfolio to OpenClaw, every agent you build can access your context — your role, your projects, your communication style — and use it to produce better, more personalized output.
+OpenClaw utiliza un espacio de trabajo con archivos de contexto e instrucciones. Su documentación distingue el contexto del usuario (`USER.md`) de la identidad y el tono del agente (`SOUL.md`). Los archivos y sus límites de carga se explican en la [guía oficial del espacio de trabajo](https://docs.openclaw.ai/concepts/agent-workspace).
 
-## How It Works
+## Propuesta de organización
 
-OpenClaw agents access external data through skills and connected data sources. Your portfolio files can be made available as a data source that any agent can read from.
+Conservá los diez documentos como fuente aprobada en una carpeta privada. En la configuración del agente, indicá qué archivos necesita para su tarea y dónde están. Si querés resumir información estable en `USER.md`, seguí el formato documentado para tu versión y mantené la referencia a la fuente.
 
-**Option 1: Local files**
+No reemplaces `SOUL.md` con el perfil del cliente: describe al agente y cumple otra función. Antes de editar archivos de configuración existentes, revisá su contenido y preservá las instrucciones que correspondan.
 
-If your OpenClaw instance runs locally and your portfolio is a folder on the same machine, point your agents at the directory. In your agent's configuration or SOUL.md, reference the portfolio location and instruct the agent to read relevant files at the start of its workflow.
+## Ejemplo de instrucción para adaptar
 
-**Option 2: Via MCP**
+```text
+Para proponer el orden de trabajo de la semana, leé los archivos aprobados de responsabilidades,
+proyectos, objetivos y límites en la carpeta de contexto autorizada.
+Si no podés acceder a alguno, indicá cuál falta; no supongas su contenido.
+Prepará una propuesta con próximos pasos y bloqueos. No modifiques la agenda ni envíes mensajes.
+```
 
-If you've already exposed your portfolio as an MCP resource (see `mcp-resource.md`), connect OpenClaw to that MCP server. Your agents access the portfolio through the MCP connection.
+Es una propuesta de uso, no una configuración lista para ejecutar. La ruta, las herramientas de lectura y los permisos deben ajustarse a la instalación. No presupongas una conexión MCP disponible sin verificarla.
 
-**Option 3: Embedded in the agent**
+## Validación
 
-For a quick approach, paste the relevant portfolio files directly into your agent's SOUL.md or system instructions. Less elegant but it works immediately. Best for agents that only need one or two files of context.
+Probá con una carpeta ficticia: confirmá que el agente pueda leer los archivos autorizados, que identifique su fecha y que no acceda al contexto de otros clientes. Cambiá un dato y comprobá que lo vuelva a consultar cuando corresponda.
 
-## Which Files for Which Agents
+Una copia resumida o pegada en instrucciones necesita mantenimiento separado. Que el original cambie no asegura que una sesión ya iniciada use el nuevo contenido.
 
-**Morning briefing agent:** `identity.md`, `current-projects.md`, `goals-and-priorities.md` — so it knows what to prioritize in the briefing.
-
-**Meeting prep agent:** `team-and-relationships.md`, `current-projects.md` — so it knows who you're meeting with and what you're working on together.
-
-**Competitor monitor agent:** `identity.md`, `domain-knowledge.md` — so it knows your industry context and what matters to flag.
-
-**Content production agent:** `communication-style.md`, `domain-knowledge.md` — so it writes in your voice and at your knowledge level.
-
-**Inbox triage agent:** `preferences-and-constraints.md`, `current-projects.md`, `team-and-relationships.md` — so it knows what's urgent, what's relevant, and who matters.
-
-## Tips
-
-- Don't dump all ten files into every agent. Each file adds to the context the agent processes, and not all of it is relevant. Be selective.
-- Reference files by name in your agent's instructions: "Before producing the briefing, read `current-projects.md` for my active workstreams and prioritize accordingly."
-- When you update your portfolio files, every agent that reads them gets the updated context automatically (if using the file or MCP approach, not the embedded approach).
-- The portfolio is context, not instructions. Your agent's SOUL.md or system prompt still defines what the agent does. The portfolio defines who it's doing it for.
+**Documentación consultada:** 2026-09-29.

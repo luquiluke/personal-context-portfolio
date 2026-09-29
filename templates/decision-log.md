@@ -1,66 +1,68 @@
-# Decision Log
+# Registro de decisiones
 
-## What This File Is For
+## Para qué sirve
 
-How you make decisions, with real examples. This is the most underrated file in the portfolio. When an agent is helping you think through a new decision, knowing how you've decided things before is enormously valuable — it can match your reasoning style, surface the right kind of information, and avoid suggesting approaches that don't fit how your mind works.
+Documenta decisiones con su contexto y criterio. Permite comparar nuevas opciones sin olvidar por qué elegiste algo antes.
 
----
+## Cómo usar esta plantilla
 
-## Interview Protocol
+Copiá este archivo completo en tu chat con IA y escribí: «Ayudame a completar esta plantilla». También podés completar la estructura a mano. Guardá el resultado revisado como `decision-log.md` en tu carpeta privada, fuera del repositorio público.
 
-*Hand this entire file to your AI build partner and say "let's do this one." Your build partner should read the instructions below and run the interview.*
+## Instrucciones para entrevistar
 
-**Instructions for the build partner:** You're helping the user create their decision log. The examples are the most important part — push for specifics on at least two real decisions. Abstract descriptions of decision-making style are less useful than concrete stories about actual decisions and how they were made.
+Hablá en español rioplatense, con voseo natural. Hacé una pregunta por mensaje y salteá las que ya estén respondidas. No leas la lista como un cuestionario obligatorio: seguí la situación del usuario. Si una respuesta es vaga, pedí un ejemplo. No completes información por intuición; marcá «Por confirmar», «Por medir» o «No aplica» según corresponda. Usá roles o alias cuando hablen de terceros.
 
-**Questions to ask:**
+Intentá recoger dos decisiones reales, por ejemplo un cambio de alcance y una compra. Si sólo hay una, registrala y dejá la otra pendiente. Separá resultados observados de expectativas.
 
-1. How do you generally make decisions? Are you the type to analyze everything, go with your gut, talk it through with people, sleep on it?
-2. What information do you want before you make a call? What makes you feel ready to decide?
-3. Tell me about a significant decision you've made recently — could be work, could be personal. What was it and how did you think it through?
-4. Can you give me another example — ideally a different kind of decision?
-5. How do you handle situations where you don't have enough information but still need to decide?
-6. Is there a decision you're currently sitting with or working through?
+### Preguntas orientativas — una por vez
 
-**When you have enough:** After 4-5 questions. The examples are the most important part — make sure you have specifics on at least two real decisions before drafting.
+1. ¿Qué necesitás saber antes de tomar una decisión importante?
+2. ¿Qué decisión reciente cambió tu forma de trabajar?
+3. ¿Qué alternativas tenías?
+4. ¿Por qué elegiste esa opción?
+5. ¿Qué pasó después?
+6. ¿Podés contar otra decisión de un tipo distinto?
+7. ¿Qué hacés cuando falta información?
+8. ¿Qué decisión tenés abierta ahora?
 
-**After drafting:** Present the draft. Ask the user if the decision examples accurately capture their reasoning process — not just the outcome, but how they actually thought through it.
+### Cuándo redactar y cómo revisar
 
----
+Cuando puedas completar lo esencial, prepará un borrador breve con la estructura de abajo. Pedí que el usuario corrija datos, supuestos y frases que no lo representen. No marques el documento como aprobado hasta que lo confirme. Si necesita pausar, registrá lo avanzado y el siguiente dato pendiente. No prometas guardar o adjuntar archivos si la herramienta no puede hacerlo.
 
-## Output Structure
+## Estructura del documento final
 
 ```markdown
-# Decision Log
+# Registro de decisiones
 
-## How I Make Decisions
+**Responsable:** [Persona que mantiene este documento]
+**Actualizado:** [AAAA-MM-DD]
+**Estado:** [Borrador / Aprobado por el responsable]
+**Compartir con:** [Audiencia autorizada]
 
-[Your general approach — analytical, intuitive, consultative, deliberate, fast. How you typically work through important choices.]
+## Cómo decido
 
-## What I Need Before Deciding
+[Criterio habitual, información necesaria y a quién consulto.]
 
-[The information, inputs, or conditions that make you feel ready to make a call. What you look for before committing.]
+## Decisiones recientes
 
-## Recent Decisions
+[Repetí el bloque para cada decisión.]
 
-[2-3 real examples of significant decisions you've made. For each: what the decision was, what the options were, how you thought through it, and what you ultimately decided. These should be detailed enough that an agent can learn from the reasoning pattern.]
+### [Título]
 
-### [Decision 1 Title]
+**Fecha:** [AAAA-MM-DD]
+**Situación:** [Qué había que resolver]
+**Opciones:** [Alternativas consideradas, incluida no hacer cambios]
+**Criterios:** [Tiempo, calidad, capacidad, costo, riesgo u otros]
+**Decisión y motivo:** [Qué elegiste y por qué]
+**Responsable:** [Quién aprobó]
+**Resultado observado:** [Hechos o «Todavía no evaluado»]
+**Revisión:** [Fecha o condición para reconsiderar]
 
-[What it was, what the options were, how you thought through it, what you decided.]
+## Cómo manejo la incertidumbre
 
-### [Decision 2 Title]
+[Qué verifico antes de comprometerme y qué puedo probar en pequeño.]
 
-[What it was, what the options were, how you thought through it, what you decided.]
+## Decisiones abiertas
 
-## How I Handle Uncertainty
-
-[What you do when you don't have enough information but still need to decide. Your relationship with incomplete information and ambiguity.]
-
-## Who I Consult
-
-[The people you talk to before big decisions and what you look for from them. Do you want validation, challenge, information, or something else?]
-
-## Current Open Decisions
-
-[Anything you're currently working through. Optional — but useful for agents that might be helping you think through active choices.]
+[Tema, opciones, información faltante, responsable y próxima revisión.]
 ```
