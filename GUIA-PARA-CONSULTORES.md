@@ -1,6 +1,6 @@
 # Cómo acompañar a un cliente
 
-El entregable es una carpeta de contexto que el cliente pueda entender, corregir y usar sin depender de vos. Elegí primero un resultado concreto: preparar propuestas más claras, responder consultas con menos esfuerzo o planificar la semana.
+El entregable es una carpeta con los diez documentos completos y una instalación asistida cuyo alcance esté verificado por herramienta. El cliente debe poder pedir actualizaciones sin repetir la entrevista. Elegí primero un resultado concreto: preparar propuestas más claras, responder consultas con menos esfuerzo o planificar la semana.
 
 ## Antes de la sesión
 
@@ -13,7 +13,7 @@ Pedile una muestra de una tarea habitual, sin información sensible: un presupue
 1. Identificá su actividad y su principal fricción cotidiana. Confirmá si trabaja solo, con colaboradores o con empleados.
 2. Completá identidad, estilo y límites. Hacé una pregunta por vez y pedí ejemplos cuando una respuesta sea genérica.
 3. Mostrale cada borrador. Separá lo que dijo de tus interpretaciones; lo que no pueda confirmar queda pendiente.
-4. Sumá los módulos que sirvan para la tarea elegida. No conviertas los diez documentos en un requisito para empezar.
+4. Completá los diez módulos para la instalación íntegra. Marcá «No aplica» con aprobación donde corresponda. Si el cliente necesita pausar, entregá el avance sin marcar como completa la instalación.
 5. Probá el contexto con la muestra de trabajo. El cliente decide si la respuesta es útil, correcta y fiel a su forma de trabajar.
 
 Para un profesional, prestá atención a alcance, honorarios, disponibilidad y revisión profesional. Para una pyme, preguntá por capacidad operativa, responsables, plazos, compras, cobros y fuente de información. No supongas que crecer en ventas sea siempre la prioridad: tal vez quiera reducir atrasos o recuperar tiempo.
@@ -31,7 +31,9 @@ Verificá con el cliente:
 
 ## Entrega y mantenimiento
 
-Entregá los archivos aprobados, una lista de los pendientes y un ejemplo de pedido a la IA que haya funcionado. Mostrá cómo reemplazar una copia desactualizada. No presentes los borradores como aprobados ni prometas resultados medidos que todavía no se verificaron.
+Aplicá la [guía de instalación](INSTALACION.md) en el entorno del cliente. No instales su contexto global en tu propio usuario ni mezcles clientes. Entregá originales, exportación íntegra, instrucciones y una tabla de alcance y pendientes de las cuatro herramientas. Probá una sesión nueva; un proyecto configurado no prueba disponibilidad en cualquier chat.
+
+Mostrá el pedido «Actualizá mi contexto en todas mis herramientas». El asistente actualizará lo accesible y señalará destinos desactualizados. No presentes los borradores como aprobados ni prometas resultados medidos que todavía no se verificaron.
 
 Acordá quién mantiene cada parte. En una pyme puede ser una persona para operaciones y otra para comunicación; la persona titular valida los cambios en precios, alcance y compromisos.
 

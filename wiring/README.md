@@ -1,9 +1,11 @@
 # Usá tu contexto con tus herramientas
 
-Empezá donde ya trabajás. No necesitás instalar una integración para aprovechar estos documentos.
+La ruta recomendada es la [instalación persistente asistida](../INSTALACION.md): preparar los diez documentos completos, configurar las herramientas accesibles y verificar el alcance real. Las rutas siguientes también sirven para uso manual o integraciones adicionales.
 
 | Tu situación | Por dónde empezar | Qué mantenimiento requiere |
 | --- | --- | --- |
+| Querés configurar tus cuatro herramientas una vez | [Instalación y verificación](../INSTALACION.md) | Pedir una actualización cuando cambie tu contexto |
+| Usás Codex o Claude Code | [Asistentes de programación](coding-assistants.md) | Actualizar el mismo perfil y verificar una sesión nueva |
 | Querés probar una tarea en un chat | [Copiar y pegar](system-prompt-patterns.md) | Pegar la versión actual cada vez que corresponda |
 | Usás ChatGPT para varias tareas relacionadas | [Proyectos en ChatGPT](chatgpt-projects.md) | Reemplazar los archivos subidos cuando cambien |
 | Usás Claude para varias tareas relacionadas | [Proyectos en Claude](claude-projects.md) | Reemplazar los archivos subidos cuando cambien |
@@ -21,7 +23,7 @@ Las últimas tres opciones son guías para integraciones que tendrías que confi
 - **Preparación de una reunión:** proyectos y vínculos relevantes.
 - **Comparación de alternativas:** objetivos, límites y registro de decisiones.
 
-Usá documentos finales, no las plantillas con preguntas. Compartí lo necesario y separá el contexto de distintos clientes.
+La instalación conserva disponibles los diez documentos completos; la lista anterior indica cuáles suelen ser relevantes para una tarea. Usá documentos finales, no las plantillas con preguntas. No mezcles perfiles de distintos clientes en una instalación global.
 
 ## Comprobá que sirve
 

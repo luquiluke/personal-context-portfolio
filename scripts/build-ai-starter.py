@@ -37,6 +37,7 @@ def nested_headings(text):
 
 def build():
     intro = (ROOT / "interview-protocol/repo-setup.md").read_text(encoding="utf-8").strip()
+    intro = intro.replace("(../INSTALACION.md)", "(INSTALACION.md)").replace("(../scripts/", "(scripts/")
     protocol = (ROOT / "interview-protocol/agent-system-prompt.md").read_text(encoding="utf-8")
     # La introducción del protocolo separado pide adjuntar plantillas: aquí ya están.
     protocol = protocol.split("\n---\n", 1)[1].strip().replace("../templates/", "templates/")
@@ -48,8 +49,10 @@ def build():
     for name in MODULES:
         template = (ROOT / "templates" / f"{name}.md").read_text(encoding="utf-8").strip()
         parts.append(f"---\n\n**Plantilla incluida: `{name}.md`**\n\n" + nested_headings(template))
+    installation = (ROOT / "INSTALACION.md").read_text(encoding="utf-8").strip()
+    parts.append("---\n\n## Procedimiento de instalación completo\n\n" + nested_headings(installation))
     parts.append("<!-- FIN DEL KIT DE INICIO -->")
-    parts.append("Este archivo se genera con `python scripts/build-ai-starter.py` a partir de `interview-protocol/repo-setup.md`, el protocolo y las plantillas. Editá esas fuentes para mantenerlo actualizado.")
+    parts.append("Este archivo se genera con `python scripts/build-ai-starter.py` a partir de `interview-protocol/repo-setup.md`, el protocolo, las plantillas e `INSTALACION.md`. Editá esas fuentes para mantenerlo actualizado.")
     return "\n\n".join(parts) + "\n"
 
 

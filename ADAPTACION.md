@@ -18,10 +18,14 @@ La idea de una carpeta de contexto portable, los diez módulos, la entrevista co
 - Se agregan estado, fecha, responsable y audiencia para distinguir borradores de contexto aprobado.
 - Se aclara que adjuntar archivos no los sincroniza y que el contexto no concede permisos para operar cuentas o enviar mensajes.
 - Se agrega un mensaje de inicio para apuntar ChatGPT o Claude al repositorio y un [archivo único de configuración guiada](INICIAR-CON-IA.md) con entrevista, plantillas y entrega. Puede compartirse por enlace, adjunto o texto pegado.
+- Se incorpora instalación persistente para ChatGPT, Claude, Claude Code y Codex, con los diez documentos completos y actualizaciones a pedido. El script instala instrucciones globales locales; las cuentas web se configuran con las herramientas autorizadas disponibles y se reportan sus límites reales.
+- El instalador preserva instrucciones existentes, respalda cambios, comprueba tamaño, identifica conflictos y permite desinstalar sus bloques. No modifica la memoria generada interna de las herramientas ni declara cobertura universal a partir de una carga en un proyecto.
 
 ## Mantener la guía de inicio para IA
 
-`INICIAR-CON-IA.md` reúne las [instrucciones de configuración](interview-protocol/repo-setup.md), el protocolo de entrevista y las diez plantillas. Después de editar esas fuentes, ejecutá `python scripts/build-ai-starter.py` desde la raíz del repositorio. Con `--check` podés comprobar que la versión compartible coincida con las fuentes. Python sólo hace falta para mantener el repositorio; los clientes no necesitan instalarlo.
+`INICIAR-CON-IA.md` reúne las [instrucciones de configuración](interview-protocol/repo-setup.md), el protocolo de entrevista, las diez plantillas y [la instalación](INSTALACION.md). Después de editar esas fuentes, ejecutá `python scripts/build-ai-starter.py` desde la raíz del repositorio. Con `--check` podés comprobar que la versión compartible coincida con las fuentes.
+
+El instalador usa Python 3.11 o posterior sin dependencias. Lo ejecuta el asistente en el equipo del cliente cuando dispone de acceso y runtime; la entrevista web no necesita Python. Las pruebas se ejecutan con `python -m unittest discover -s tests -v` en carpetas temporales, sin modificar el perfil real ni cuentas web.
 
 ## Correspondencia de ejemplos
 

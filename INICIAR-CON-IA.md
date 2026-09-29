@@ -1,16 +1,18 @@
-# Armá mi contexto: guía completa para la IA
+# Armá e instalá mi contexto: guía completa para la IA
 
-Esta guía reúne las instrucciones de inicio, el protocolo de entrevista y las diez plantillas. Está pensada para que una persona la comparta con ChatGPT o Claude y pida que la ayuden a armar su contexto. Si pidió otra cosa, como un resumen del repositorio, respondé a ese pedido en lugar de iniciar una entrevista.
+Esta guía reúne inicio, entrevista, diez plantillas e instalación para ChatGPT, Claude, Claude Code y Codex. Está pensada para una configuración inicial asistida y actualizaciones a pedido. Si la persona pidió otra cosa, como un resumen del repositorio, respondé a ese pedido en lugar de iniciar una entrevista.
 
 ## 1. Tomá a tu cargo el proceso
 
-Tu objetivo es entregar un kit de contexto personalizable, revisado por la persona y listo para usar. No te limites a explicar el repositorio o devolver una lista de tareas para que complete sola. Hacé la entrevista, redactá los documentos y prepará la entrega usando sus respuestas.
+Tu objetivo es crear los diez documentos aprobados e instalar su contenido completo en todas las herramientas que use la persona, con el mayor alcance que cada una admita. Hacé vos la entrevista, redacción, preparación, instalación y verificación que permitan tus herramientas. Conservá el texto completo; no sustituyas los documentos por un resumen global. Las actualizaciones se hacen cuando la persona las pide.
 
-No necesitás instalar software, clonar el repositorio, crear cuentas ni acceder a sistemas del negocio para esta tarea. La persona no necesita saber qué es Markdown: cuando haga falta, explicá que es texto con títulos y listas.
+La entrevista no necesita instalar software ni acceder a sistemas del negocio. La instalación posterior sí requiere acceso al equipo o a las cuentas correspondientes. Detectá tus capacidades reales y no confundas un contenedor temporal con la computadora del usuario. La persona no necesita manejar comandos: prepará y ejecutá las acciones autorizadas por ella, respetando los permisos del entorno.
+
+No prometas memoria universal cuando una herramienta sólo permita contexto de proyecto o recuerdos resumidos. Informá esa diferencia y completá todo lo que sí puedas configurar, manteniendo íntegros los diez documentos.
 
 ## 2. Verificá que tengas el material
 
-Este archivo incluye el protocolo y diez plantillas completas. Al final tiene el marcador `<!-- FIN DEL KIT DE INICIO -->`. Si la herramienta sólo mostró un extracto, recuperá las partes faltantes con las herramientas disponibles. Si no podés leerlo completo, pedí que adjunten este archivo o peguen su contenido; no finjas haber leído una guía truncada.
+El archivo generado `INICIAR-CON-IA.md` incluye este inicio, el protocolo, las diez plantillas y el procedimiento de instalación. Al final tiene el marcador `<!-- FIN DEL KIT DE INICIO -->`. Si la herramienta sólo mostró un extracto, recuperá las partes faltantes con las herramientas disponibles. Si no podés leerlo completo, pedí que adjunten ese archivo o peguen su contenido; no finjas haber leído una guía truncada.
 
 Si la persona pega el material en partes, esperá a que confirme que terminó antes de iniciar. Cuando ya tengas la guía completa, no le pidas que también adjunte las diez plantillas por separado ni que copie archivos del repositorio uno por uno.
 
@@ -18,11 +20,11 @@ Las plantillas explican también su uso individual. En este recorrido, vos ya la
 
 ## 3. Empezá con una pregunta
 
-Respondé con una introducción breve: «Voy a ayudarte a armar tu contexto para la IA. Te hago una pregunta por vez, preparo los documentos y los revisamos juntos. Después te dejo los archivos y las instrucciones para usarlos. ¿A qué te dedicás hoy?».
+Respondé con una introducción breve: «Voy a ayudarte a armar los diez documentos de contexto e instalarlos en las herramientas que uses. Te hago una pregunta por vez y revisamos los borradores juntos. Después configuro lo que pueda y te indico cualquier paso pendiente. ¿A qué te dedicás hoy?».
 
 Si ya explicó su actividad en el chat, usá esa información y preguntá qué tarea concreta quiere resolver mejor. No empieces por pedir que elija archivos, entienda la estructura del repositorio o decida herramientas técnicas.
 
-Seguí el protocolo incluido más abajo. Por defecto, recorré sus diez módulos en el orden indicado. Si pide una versión breve, trabajá identidad, estilo y límites, y marcá los demás como pendientes. Podés omitir lo que no aplique sin inventar información para completar una estructura.
+Seguí el protocolo incluido más abajo. Por defecto, recorré sus diez módulos en el orden indicado. Si pide pausar o abreviar, marcá lo que falte como pendiente; no declares completa la instalación de los diez. Un módulo que no aplique se puede completar como «No aplica» con aprobación, sin inventar datos.
 
 ## 4. Redactá y llevá el avance
 
@@ -34,12 +36,13 @@ Llevá una lista de documentos aprobados, borradores, módulos pendientes y dato
 
 ## 5. Prepará una entrega que pueda usar
 
-Cuando se complete el recorrido acordado, preguntá dónde quiere usar el resultado —ChatGPT, Claude o ambos— si todavía no lo sabés. Prepará:
+Cuando se complete el recorrido acordado, preguntá cuáles usa —ChatGPT, Claude, Claude Code y Codex— si todavía no lo sabés. Prepará:
 
-1. **Los archivos de contexto trabajados**, con el contenido final revisado y sus nombres originales. Separá claramente cualquier borrador de lo aprobado. No entregues las preguntas de entrevista como parte del perfil.
+1. **Los diez archivos de contexto aprobados**, con sus nombres originales, y **`CONTEXTO-COMPLETO.md`** con todo su texto y una versión identificable. Si faltan módulos, entregá el avance sin declarar completa la instalación. No entregues preguntas de entrevista como parte del perfil.
 2. **`INSTRUCCIONES-PARA-MI-IA.md`**, con un texto listo para pegar en las instrucciones del proyecto o en un chat nuevo. Debe indicar cómo usar los documentos aprobados, su estilo y límites. Escribilo para un asistente de trabajo cotidiano; no le asignes el rol de entrevistador ni copies este protocolo.
-3. **`LEEME.md`**, con el listado de archivos entregados, qué quedó pendiente, los pasos para usarlos en la herramienta elegida, una tarea de prueba adaptada al usuario y cómo mantenerlos actualizados.
+3. **`LEEME.md`**, con la ubicación privada de los originales, los archivos entregados, cómo usarlos y el pedido «Actualizá mi contexto en todas mis herramientas».
 4. **`AVANCE.md`**, sólo si el recorrido quedó incompleto o la persona quiere retomarlo después.
+5. **`ESTADO-INSTALACION.md`** y **`VERIFICACION-CUENTAS.md`**, con estados, versiones, alcance real y evidencia. El instalador genera el primero y una base del segundo; completá la verificación de las cuentas con las herramientas disponibles. Un archivo escrito no equivale a una sesión verificada.
 
 Si podés crear archivos descargables, generá los `.md` y, si la herramienta lo permite, un ZIP con esa entrega. Comprobá que los archivos existan antes de ofrecerlos. Si no podés generar archivos, entregá bloques Markdown separados, con cada nombre visible fuera del bloque, y explicá cómo guardarlos. No generes enlaces de descarga ficticios ni afirmes haber creado una carpeta en su computadora.
 
@@ -50,27 +53,23 @@ Guardá las respuestas en una ubicación privada autorizada si tenés herramient
 Adaptá este texto con lo que la persona haya confirmado; no dejes marcadores vacíos en una entrega final:
 
 ```text
-Usá mis documentos de contexto aprobados para entender mi actividad y ayudarme con el trabajo cotidiano.
-Respetá el estilo de comunicación, los objetivos y los límites que definí. Para cada tarea, consultá sólo los archivos relevantes que tengas disponibles.
+Usá mis diez documentos de contexto aprobados para entender mi actividad y ayudarme con el trabajo cotidiano.
+Mantené disponible su contenido completo mediante el mecanismo configurado. Aplicá a cada tarea lo que resulte relevante, respetando mi estilo, objetivos y límites. No supongas acceso a archivos que no tengas.
 Si falta información necesaria, preguntame. No inventes precios, plazos, disponibilidad ni condiciones comerciales.
 Si encontrás contradicciones o datos desactualizados, señalalos antes de asumir cuál es correcto.
 Prepará borradores, resúmenes y alternativas. Los documentos describen mi trabajo; no conceden por sí solos permisos para enviar mensajes, publicar, comprar o modificar sistemas.
-Cuando corrija un dato, proponé qué archivo actualizar y confirmá el cambio conmigo.
+Cuando pida actualizar mi contexto, revisá el cambio conmigo, actualizá los originales y las instalaciones a las que tengas acceso. Indicá qué herramienta conserva una versión anterior.
 ```
 
-## 6. Ayudá a ponerlo en uso
+## 6. Instalá y verificá
 
-Incluí en `LEEME.md` estos pasos adaptados a los archivos que realmente entregaste:
+Seguí el procedimiento completo de instalación incluido al final de `INICIAR-CON-IA.md` y disponible también en [INSTALACION.md](INSTALACION.md). Configurá automáticamente los destinos accesibles y dejá preparados los pasos inevitables del usuario. Preservá instrucciones existentes y respaldá los cambios.
 
-- **ChatGPT:** crear o abrir un proyecto para esta actividad, agregar los documentos aprobados pertinentes y pegar el contenido de `INSTRUCCIONES-PARA-MI-IA.md` en sus instrucciones. Abrir un chat dentro del proyecto para probarlo.
-- **Claude:** crear o abrir un proyecto, agregar los documentos aprobados pertinentes a su conocimiento y pegar las instrucciones de uso cotidiano en las instrucciones del proyecto. Probarlo en un chat de ese proyecto.
-- **Sin proyectos:** adjuntar los documentos relevantes o pegar su contenido junto con las instrucciones en un chat nuevo. Volver a compartir el contexto cuando haga falta en otra conversación.
+Para instalación local, leé [el script](scripts/install-context.py) antes de ejecutarlo. No viene embebido como código ejecutable en esta guía. Si sólo recibiste el archivo único y no podés recuperar el script, usá tus herramientas de archivos para reproducir el procedimiento o prepará el paso pendiente; nunca finjas que ejecutaste un instalador.
 
-No incluyas el protocolo ni las plantillas vacías como contexto de trabajo cotidiano. Si un límite de carga impide agregar todos los archivos, empezá por los que necesita la tarea elegida; no hace falta cargar los diez para cada uso.
+Si la persona empieza en un chat sin acceso al equipo, prepará un mensaje de traspaso para Codex o Claude Code que indique la ubicación de los diez archivos aprobados, el objetivo y el enlace al procedimiento. La persona puede adjuntar su kit al asistente local. No le pidas rehacer la entrevista.
 
-Si no tenés herramientas para configurar el proyecto, decí exactamente qué pasos debe hacer la persona. Si sí las tenés, realizá las acciones autorizadas y verificá el resultado antes de decir que está configurado. Separá claramente «archivos preparados» de «proyecto configurado».
-
-Para opciones actuales de interfaz, consultá la [ayuda oficial de proyectos de ChatGPT](https://help.openai.com/es-419/articles/10169521-projects-in-chatgpt) o la [ayuda oficial de proyectos de Claude](https://support.claude.com/es/articles/9519177-como-puedo-crear-y-gestionar-proyectos) si tenés acceso. No inventes nombres de botones ni límites de planes.
+Cuando no sea posible instalar contenido íntegro global en una cuenta web, conservá el portfolio completo en el ámbito disponible y registrá exactamente la limitación. Una configuración parcial no cumple el objetivo universal, aunque sea útil. No lo ocultes al cierre.
 
 ## 7. Cerrá con una prueba concreta
 
@@ -92,7 +91,7 @@ Usá español rioplatense, con voseo natural: «contame», «trabajás», «pod�
 
 Explicá: «Vamos a armar una carpeta de contexto para que la IA entienda tu trabajo. Voy a hacerte una pregunta por vez, preparar un borrador y mostrártelo para que lo corrijas. Podés saltear lo que no aplique o pausar cuando quieras. Empecemos por algo concreto: ¿a qué te dedicás hoy?».
 
-Después de entender la actividad, preguntá qué tarea le gustaría resolver con menos explicaciones repetidas. Si necesita algo breve, proponé identidad, estilo y límites como primera etapa. Si quiere el recorrido completo, usá la secuencia de abajo. No prometas una duración fija.
+Después de entender la actividad, preguntá qué tarea le gustaría resolver con menos explicaciones repetidas. El recorrido recomendado completa los diez módulos para instalar su contenido íntegro. Si pide abreviar o pausar, entregá el avance y marcá la instalación completa como pendiente. No prometas una duración fija.
 
 #### Cómo conducir la conversación
 
@@ -142,6 +141,8 @@ Cuando necesite parar, entregá un resumen de avance con archivos aprobados, bor
 #### Cierre y entrega
 
 Entregá sólo los archivos que se hayan trabajado, cada uno identificado por su nombre. Si la herramienta permite crearlos, generá los `.md`; si no, presentá bloques separados para copiar. No prometas un ZIP o un enlace de descarga inexistente.
+
+Cuando estén aprobados los diez archivos, continuá con la instalación descrita en `INICIAR-CON-IA.md` e `INSTALACION.md`. Configurá las herramientas accesibles, preservá las instrucciones previas y reportá alcance y verificación por destino. No declares memoria global íntegra si sólo pudiste cargar archivos en un proyecto.
 
 Proponé probar el contexto con la tarea elegida al inicio. Pedí que compruebe tono, alcance, límites y datos antes de usar el resultado. Recordá guardar los archivos en una carpeta privada y actualizar las copias compartidas cuando cambie la actividad.
 
@@ -850,6 +851,108 @@ Cuando puedas completar lo esencial, prepará un borrador breve con la estructur
 [Tema, opciones, información faltante, responsable y próxima revisión.]
 ```
 
+---
+
+## Procedimiento de instalación completo
+
+### Instalación de contexto persistente en tus cuatro herramientas
+
+**Decisión de esta edición:** conservar los diez documentos completos, configurar una vez por herramienta y actualizar cuando lo pidas. El asistente hace las operaciones a las que tenga acceso; vos aportás y aprobás tu contexto.
+
+#### Qué significa «en todas partes»
+
+El kit busca la cobertura más amplia posible en ChatGPT, Claude, Claude Code y Codex. No hay una instalación única que convierta automáticamente archivos locales en memoria íntegra de todas las cuentas web. Por eso la entrega incluye un estado por herramienta y distingue **contexto completo instalado**, **disponible sólo en un proyecto**, **parcial** y **pendiente**.
+
+| Herramienta | Método del kit | Alcance que se puede verificar |
+| --- | --- | --- |
+| Codex | Incorporar los diez documentos al archivo global activo de instrucciones | Sesiones nuevas que usen ese usuario y directorio de configuración; sujeto al límite de lectura y a instrucciones de cada proyecto |
+| Claude Code | Incorporar los diez documentos a las instrucciones del usuario | Sesiones nuevas en ese equipo y configuración, sujetas a sus políticas y mecanismos de carga |
+| ChatGPT | Intentar configuración de cuenta con el contenido íntegro donde esté soportado; mantener copia completa en un proyecto privado | Alcance real de la cuenta; una copia en un proyecto sólo cubre ese proyecto |
+| Claude chat | Intentar instrucciones de perfil con el contenido íntegro cuando lo admita; mantener copia completa en un proyecto privado | Alcance real del perfil; conocimiento de proyecto no equivale a memoria global |
+
+La memoria automática puede resumir o seleccionar información. No la usamos como prueba de conservación íntegra de diez documentos. Tampoco consideramos que un enlace o una ruta local en instrucciones globales dé acceso a su contenido. Las sesiones temporales, los entornos remotos y las políticas de una organización pueden tener otros límites. Consultá las [fuentes de alcance](wiring/capabilities.md).
+
+#### Instrucciones para el asistente instalador
+
+##### 1. Preparar la fuente aprobada
+
+Completá los diez módulos. Un módulo que no corresponda puede decir «No aplica», con aprobación de la persona; no lo inventes ni lo omitas silenciosamente. Guardá cada archivo con sus metadatos y la línea `**Estado:** Aprobado por el responsable` sólo después de esa aprobación. No instales plantillas, entrevistas ni ejemplos ficticios.
+
+Elegí una carpeta privada fuera del repositorio público como fuente. Usá un identificador estable para esa persona, sin datos sensibles. Un usuario de sistema sólo debe tener un perfil global activo; no mezcles clientes de una consultora en el mismo perfil global.
+
+Preguntá qué herramientas usa y detectá el equipo o entorno cuando tengas acceso. Los cuatro destinos están soportados por el flujo; no instales aplicaciones que la persona no utiliza. Si empieza en un chat sin acceso al equipo, terminá la entrevista y prepará la entrega completa antes de pedirle abrir un asistente con acceso local. Que ChatGPT o Claude puedan generar archivos en su entorno de ejecución no significa que puedan escribir en la computadora del usuario.
+
+##### 2. Instalar automáticamente en Codex y Claude Code
+
+Si tenés acceso real al equipo de la persona, leé y ejecutá [scripts/install-context.py](scripts/install-context.py). Usá Python 3.11 o posterior disponible en ese entorno. No ejecutes el instalador en un contenedor de análisis y lo describas como una instalación en la computadora del cliente. Si falta el runtime, usá las herramientas de archivos del asistente siguiendo las mismas reglas de preservación y verificación, o indicá el requisito pendiente.
+
+Ejemplo para el asistente técnico; reemplazá la ruta por la carpeta privada real:
+
+```text
+python scripts/install-context.py install --source RUTA_PRIVADA --profile mi-contexto
+python scripts/install-context.py install --source RUTA_PRIVADA --profile mi-contexto --apply
+python scripts/install-context.py status
+```
+
+El primer comando muestra qué cambiará. Si el usuario ya pidió instalar, continuá con `--apply` dentro de los permisos disponibles; no conviertas la vista previa en una confirmación adicional. Respetá cualquier aprobación que exija el entorno. Nunca cambies políticas de seguridad para evitarla.
+
+Por defecto se configuran ambos asistentes locales. `--targets codex` o `--targets claude-code` permite elegir uno. `--targets` sin valores prepara únicamente la carpeta y exportaciones. `--home` permite indicar explícitamente el usuario destino o un entorno de prueba; `--codex-home` y `--claude-home` permiten rutas particulares. No escribas en otro usuario por suposición.
+
+El instalador:
+
+- Conserva completos los diez originales y crea `CONTEXTO-COMPLETO.md` sin resumirlos.
+- Usa `CODEX_HOME` y `CLAUDE_CONFIG_DIR` si están definidos; de lo contrario, las ubicaciones habituales del usuario. Si hay un override global activo de Codex, lo detecta.
+- Agrega un bloque identificado a las instrucciones existentes. Mantiene el resto, hace respaldos y evita duplicar el bloque al repetir la operación.
+- Rechaza plantillas, perfiles diferentes, cambios concurrentes y modificaciones externas en sus bloques o copias de contexto.
+- Comprueba el tamaño para Codex. Si no entra, detiene la operación antes de escribir; nunca recorta módulos. Revisá el límite `project_doc_max_bytes` y el espacio necesario para instrucciones de proyectos. Si corresponde y está autorizado, ajustá sólo ese valor preservando el resto de la configuración y repetí la instalación. Una configuración de cuenta, perfil o comando puede modificar el límite efectivo: verificá la sesión real.
+- No cambia archivos internos de memoria generada, credenciales, permisos de ejecución ni políticas de las aplicaciones.
+
+Los archivos privados quedan bajo `~/.personal-context-portfolio/`, junto con respaldos, manifiesto, instrucciones para la IA y estado local. Es una carpeta local, no almacenamiento cifrado ni una conexión con cuentas web; conserva los controles de acceso del usuario de sistema.
+
+##### 3. Configurar ChatGPT y Claude chat con el acceso disponible
+
+Hacé este procedimiento por separado en cada cuenta que la persona use:
+
+1. **Comprobar acceso.** Si disponés de interfaz, conector o herramienta autorizada para administrar esa cuenta, inspeccioná las opciones reales. Si no, prepará los archivos y un único paso concreto para que el usuario continúe. No solicites contraseñas ni tokens por chat, ni uses endpoints privados no documentados.
+2. **Preservar lo existente.** Leé y guardá una copia de instrucciones previas antes de cambiarlas. Conservá cualquier instrucción ajena al bloque del kit; no reemplaces todo el campo ni restablezcas la memoria de la cuenta.
+3. **Intentar alcance global completo.** Usá el campo de instrucciones globales o de perfil si acepta el contenido completo junto con lo existente. Guardá y leé de vuelta el contenido; verificá los diez módulos y que no se haya truncado. Si la cuenta ofrece una fuente privada conectada accesible desde sus chats, puede ser otra ruta, pero verificá acceso autenticado y alcance en chats nuevos antes de declararla disponible. No hagas públicos los documentos para que una URL sea accesible.
+4. **Si no admite el contenido íntegro, mantenerlo completo.** Creá o actualizá un proyecto privado «Mi contexto» con `CONTEXTO-COMPLETO.md` y las instrucciones de uso. Un archivo combinado evita depender de poder adjuntar diez archivos separados. No conviertas el portfolio en un resumen para simular que cumple el requisito. Registrá **proyecto completo; global pendiente/no soportado en esta configuración**. No declares instalado globalmente un simple recordatorio para abrir el proyecto.
+5. **Memoria nativa.** Sólo incorporá información aprobada mediante controles disponibles si sirve como complemento. No la confundas con conservar archivos textuales ni prometas que su mecanismo de recuperación usará todos los datos. No borres recuerdos ajenos al kit.
+6. **Comprobar y registrar.** Indicá cuenta o entorno sin credenciales, ubicación, versión, fecha, alcance y evidencia de lectura. Guardá esos resultados en `VERIFICACION-CUENTAS.md`; el instalador local deja esa verificación pendiente porque no tiene acceso a cuentas.
+
+Si necesitás acciones manuales, agrupalas por herramienta y prepará previamente todo el texto. El cliente no tiene que elegir archivos, escribir comandos ni diseñar la configuración. Evitá repetir pasos ya completados.
+
+##### 4. Verificar en sesiones nuevas
+
+La escritura correcta de archivos no prueba que una aplicación ya los esté usando. Abrí una sesión nueva con herramientas autorizadas o prepará un único pedido de prueba para el usuario:
+
+> Sin usar esta conversación anterior, indicá qué versión de mi contexto tenés disponible. Nombrá los diez documentos y mencioná un dato concreto de cada uno. Señalá si alguno no está disponible. No inventes lo que falta.
+
+Compará la respuesta con los originales. Para alcance global en chat, probá una conversación nueva fuera del proyecto y verificá también el alcance documentado del mecanismo. Una respuesta acertada aislada no garantiza todos los modos o futuras sesiones. Para asistentes locales, probá desde otra carpeta y revisá que las instrucciones globales estén activas. Si no podés abrir una sesión o leer de vuelta el estado, registrá **configurado; verificación pendiente**.
+
+Entregá una tabla con las cuatro herramientas, estado, alcance, versión y acción pendiente. No cierres con «memoria universal instalada» cuando alguna fila sea parcial o pendiente. Los documentos completos siguen siendo el objetivo, no una promesa sobre plataformas fuera de tu control.
+
+#### Actualizar cuando la persona lo pida
+
+Pedido sugerido:
+
+> Actualizá mi contexto en todas mis herramientas con estos cambios: […]. Conservá los diez documentos completos y decime dónde quedó aplicada la nueva versión.
+
+Revisá el cambio con la persona, actualizá los originales y repetí el instalador con el mismo perfil y todos los destinos locales ya instalados. Después reemplazá la versión en cada cuenta a la que tengas acceso. Un cambio local no modifica ChatGPT ni Claude chat: las verificaciones web de una versión anterior quedan desactualizadas hasta repetirlas.
+
+Si no podés acceder a un destino, actualizá los demás y dejá esa fila como **actualización pendiente**, con el siguiente paso listo. No programes sincronización continua ni tareas en segundo plano.
+
+#### Desinstalar y recuperar
+
+```text
+python scripts/install-context.py uninstall
+python scripts/install-context.py uninstall --apply
+```
+
+Se retiran sólo los bloques locales del kit, conservando otras instrucciones, documentos privados y respaldos. Si un bloque fue modificado por fuera, la desinstalación se detiene para que el asistente concilie los cambios. Las cuentas web se revisan por separado: quitá únicamente contenido del kit y preservá lo demás.
+
+Cada respaldo tiene un `index.json` que relaciona la ruta original con su copia. Antes de recuperar una versión, comparala con la actual para no perder cambios posteriores. No copies archivos de configuración completos a ciegas.
+
 <!-- FIN DEL KIT DE INICIO -->
 
-Este archivo se genera con `python scripts/build-ai-starter.py` a partir de `interview-protocol/repo-setup.md`, el protocolo y las plantillas. Editá esas fuentes para mantenerlo actualizado.
+Este archivo se genera con `python scripts/build-ai-starter.py` a partir de `interview-protocol/repo-setup.md`, el protocolo, las plantillas e `INSTALACION.md`. Editá esas fuentes para mantenerlo actualizado.

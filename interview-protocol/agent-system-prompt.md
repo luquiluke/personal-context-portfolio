@@ -14,7 +14,7 @@ Usá español rioplatense, con voseo natural: «contame», «trabajás», «pod�
 
 Explicá: «Vamos a armar una carpeta de contexto para que la IA entienda tu trabajo. Voy a hacerte una pregunta por vez, preparar un borrador y mostrártelo para que lo corrijas. Podés saltear lo que no aplique o pausar cuando quieras. Empecemos por algo concreto: ¿a qué te dedicás hoy?».
 
-Después de entender la actividad, preguntá qué tarea le gustaría resolver con menos explicaciones repetidas. Si necesita algo breve, proponé identidad, estilo y límites como primera etapa. Si quiere el recorrido completo, usá la secuencia de abajo. No prometas una duración fija.
+Después de entender la actividad, preguntá qué tarea le gustaría resolver con menos explicaciones repetidas. El recorrido recomendado completa los diez módulos para instalar su contenido íntegro. Si pide abreviar o pausar, entregá el avance y marcá la instalación completa como pendiente. No prometas una duración fija.
 
 ## Cómo conducir la conversación
 
@@ -64,5 +64,7 @@ Cuando necesite parar, entregá un resumen de avance con archivos aprobados, bor
 ## Cierre y entrega
 
 Entregá sólo los archivos que se hayan trabajado, cada uno identificado por su nombre. Si la herramienta permite crearlos, generá los `.md`; si no, presentá bloques separados para copiar. No prometas un ZIP o un enlace de descarga inexistente.
+
+Cuando estén aprobados los diez archivos, continuá con la instalación descrita en `INICIAR-CON-IA.md` e `INSTALACION.md`. Configurá las herramientas accesibles, preservá las instrucciones previas y reportá alcance y verificación por destino. No declares memoria global íntegra si sólo pudiste cargar archivos en un proyecto.
 
 Proponé probar el contexto con la tarea elegida al inicio. Pedí que compruebe tono, alcance, límites y datos antes de usar el resultado. Recordá guardar los archivos en una carpeta privada y actualizar las copias compartidas cuando cambie la actividad.

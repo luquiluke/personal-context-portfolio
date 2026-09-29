@@ -4,27 +4,37 @@
 
 Contale una vez a la IA qué hacés, para quién trabajás y cómo funciona tu negocio. Guardá ese contexto en archivos simples y usalo para preparar presupuestos, responder consultas, organizar entregas y pensar decisiones con información sobre tu realidad.
 
-Este kit te ayuda a armar **diez documentos breves** sobre tu actividad. Está escrito en español rioplatense, con voseo, y podés usarlo por tu cuenta o durante una sesión con un consultor. No necesitás programar ni saber usar GitHub.
+Este kit te ayuda a crear **diez documentos de contexto e instalarlos con asistencia de IA** en ChatGPT, Claude, Claude Code y Codex. Conserva su contenido completo, busca la mayor disponibilidad que admita cada herramienta y permite actualizarlo cuando lo pidas. Está escrito en español rioplatense, con voseo. No necesitás programar ni saber usar GitHub.
 
 ## Dejá que la IA te guíe
 
-Abrí una conversación nueva en ChatGPT o Claude y pegá este mensaje:
+Abrí una conversación nueva en cualquiera de esas herramientas y pegá este mensaje:
 
 ```text
-Quiero que me ayudes a armar y dejar listo para usar mi contexto profesional o de negocio con este kit:
+Quiero crear e instalar mi contexto persistente con este kit:
 https://github.com/luquiluke/personal-context-portfolio
 
 Leé la guía completa de inicio para la IA, que contiene las instrucciones y las diez plantillas:
 https://raw.githubusercontent.com/luquiluke/personal-context-portfolio/main/INICIAR-CON-IA.md
 
-Seguí esa guía para entrevistarme, redactar y revisar conmigo los documentos, y preparar los archivos e instrucciones para usarlos en ChatGPT o Claude.
+Entrevistame y revisá conmigo los diez documentos. Conservá su contenido completo e instalalos en las herramientas que uso: ChatGPT, Claude, Claude Code y Codex.
+Hacé automáticamente la configuración a la que tengas acceso, preservá mis instrucciones existentes y verificá el resultado. Si una herramienta no admite el contenido íntegro globalmente, decime el alcance real y qué queda pendiente; no lo reemplaces por un resumen.
+Quiero una configuración inicial y actualizaciones cuando te las pida, sin sincronización continua.
 Hablame de vos, en español rioplatense. Haceme una pregunta por vez y empezá por mi actividad. No inventes información sobre mí.
 Si no podés leer la guía completa desde el enlace, pedime que adjunte INICIAR-CON-IA.md o pegue su contenido. No asumas que la leíste.
 ```
 
-La IA te entrevista y prepara tu kit a partir de tus respuestas. No necesitás completar plantillas ni configurar GitHub antes de empezar. Si no puede abrir el enlace, [abrí la guía](INICIAR-CON-IA.md), descargala con **Download raw file** y adjuntala al chat; también podés copiar y pegar su contenido.
+La IA entrevista, prepara el kit y realiza la instalación que permitan sus herramientas. No necesitás completar plantillas ni configurar GitHub antes de empezar. Si no puede abrir el enlace, [abrí la guía](INICIAR-CON-IA.md), descargala con **Download raw file** y adjuntala al chat; también podés copiar y pegar su contenido.
 
 **[Ver los pasos y qué vas a recibir →](GETTING-STARTED.md)**
+
+## Alcance de la instalación
+
+- **Codex y Claude Code:** el instalador incorpora los diez documentos completos a las instrucciones globales del usuario del equipo, preservando lo existente y creando respaldos. Hay que verificar su carga en sesiones nuevas.
+- **ChatGPT y Claude chat:** el asistente configura la cuenta cuando tiene acceso. Si la herramienta no permite almacenar y consultar todo el contenido globalmente, mantiene una copia íntegra en un proyecto privado y lo informa como cobertura de proyecto. No lo presenta como memoria universal.
+- **Actualizaciones:** pedí «Actualizá mi contexto en todas mis herramientas». La IA actualiza los destinos accesibles e indica cuáles quedan pendientes.
+
+Una instalación local no configura por sí sola cuentas web, otros equipos o entornos remotos. La memoria automática tampoco garantiza conservar literalmente diez documentos. El kit registra esas diferencias en lugar de prometer cobertura que no puede comprobar. [Procedimiento y verificación](INSTALACION.md) · [Fuentes de alcance](wiring/capabilities.md).
 
 ## Para quién es
 
@@ -44,7 +54,7 @@ Las preguntas se adaptan a tu actividad. Si trabajás por tu cuenta, no necesit�
 | Comparar una compra o un cambio de proveedor | Objetivos, límites, registro de decisiones |
 | Delegar una tarea sin explicar todo de nuevo | Responsabilidades, herramientas, conocimiento del rubro |
 
-El kit aporta contexto. No consulta tus sistemas ni ejecuta acciones por sí solo. Los borradores y las decisiones siguen necesitando tu criterio.
+El instalador configura contexto, no conecta tus sistemas comerciales. Los borradores y las decisiones siguen necesitando tu criterio.
 
 ## Los diez documentos
 
@@ -63,9 +73,9 @@ Conservamos los nombres de archivo del proyecto original para facilitar su reuti
 | Conocimiento del rubro | [domain-knowledge.md](templates/domain-knowledge.md) | Tu criterio profesional y las particularidades de tu negocio |
 | Registro de decisiones | [decision-log.md](templates/decision-log.md) | Qué decidiste, por qué y cuándo revisarlo |
 
-## Empezá con una tarea concreta
+## Completá una vez y probalo con una tarea concreta
 
-Armá primero identidad, estilo de comunicación y preferencias y límites. Probá esos tres documentos con una consulta o propuesta que tengas pendiente. Después sumá los demás según lo que necesites.
+El recorrido recomendado completa los diez documentos y los instala donde sea posible. Si un módulo no aplica, dejalo indicado y aprobado. Después probá el resultado con una consulta, propuesta o planificación habitual. Si necesitás pausar, la IA puede entregar el avance; la instalación completa queda pendiente.
 
 Podés copiar y pegar el contenido en tu herramienta de IA o adjuntar los archivos. Markdown (`.md`) es texto con títulos y listas: lo podés abrir con un editor de texto común.
 
@@ -78,12 +88,13 @@ Podés copiar y pegar el contenido en tu herramienta de IA o adjuntar los archiv
 - [Guía para acompañar a un cliente](GUIA-PARA-CONSULTORES.md): preparación, entrevista, validación y entrega.
 - [Entrevista completa con IA](interview-protocol/agent-system-prompt.md): instrucciones listas para copiar.
 - [Usar el contexto con tus herramientas](wiring/README.md): desde copiar y pegar hasta integraciones técnicas opcionales.
+- [Instalación persistente](INSTALACION.md): configuración asistida, alcance por herramienta, actualizaciones y recuperación.
 
 ## Guardá tus respuestas por separado
 
 Este repositorio público contiene plantillas y ejemplos. Guardá el contexto real en una carpeta privada, fuera del repositorio; compartí solamente lo necesario para cada tarea. Usá alias para clientes y no incluyas contraseñas, datos bancarios ni información sensible de terceros. No hace falta publicar tus respuestas para usar el kit.
 
-Revisá los trabajos activos cada semana y los objetivos cada mes. Anotá la fecha de actualización y reemplazá también las copias que hayas subido a una herramienta de IA.
+Cuando cambie tu actividad, pedí la actualización del contexto. La IA debe conservar los diez originales, actualizar las copias accesibles y señalar los destinos que todavía tengan la versión anterior. No hay tareas automáticas en segundo plano.
 
 ## Origen y licencia
 

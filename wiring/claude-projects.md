@@ -1,11 +1,13 @@
 # Usá tu contexto en un proyecto de Claude
 
+En el flujo de [instalación persistente](../INSTALACION.md), esta es la alternativa cuando la cuenta no permite conservar todo el contenido con alcance global. El asistente configura el proyecto si tiene acceso autorizado y registra su alcance real. Las instrucciones de perfil y la memoria nativa no deben confundirse con un archivo íntegro disponible en todos los chats.
+
 Podés subir archivos de texto a la base de conocimiento de un proyecto y agregar instrucciones para las conversaciones que se desarrollen allí. Seguí la [guía oficial para crear y gestionar proyectos](https://support.claude.com/es/articles/9519177-como-puedo-crear-y-gestionar-proyectos) para las opciones actuales.
 
 ## Preparación
 
 1. Creá o abrí el proyecto correspondiente a tu actividad o a un cliente.
-2. Agregá los documentos finales a la base de conocimiento. Empezá con identidad, estilo de comunicación y límites.
+2. Agregá `CONTEXTO-COMPLETO.md` con los diez documentos finales íntegros, o los diez archivos por separado si el entorno lo permite.
 3. Definí las instrucciones del proyecto.
 4. Probá una tarea dentro de ese proyecto y revisá el resultado.
 
@@ -27,7 +29,7 @@ El contexto no autoriza envíos, compras ni compromisos; prepará borradores par
 
 ## Mantenimiento
 
-Reemplazá los archivos subidos cuando cambie la versión original. Compartir un dato en una conversación no equivale a actualizar el documento de referencia. Si el proyecto se comparte, revisá audiencia y permisos antes de agregar contenido de un cliente; consultá las opciones de acceso en la [ayuda oficial](https://support.claude.com/es/articles/9519177-como-puedo-crear-y-gestionar-proyectos).
+Pedí al asistente que reemplace los archivos subidos cuando cambie la versión original y verifique el resultado; si no tiene acceso, debe dejarlo pendiente. Compartir un dato en una conversación no equivale a actualizar el documento de referencia. Si el proyecto se comparte, revisá audiencia y permisos antes de agregar contenido de un cliente; consultá las opciones de acceso en la [ayuda oficial](https://support.claude.com/es/articles/9519177-como-puedo-crear-y-gestionar-proyectos).
 
 Usá un caso conocido para comprobar que Claude entiende tu alcance y no inventa una fecha o condición comercial. Corregí el documento que originó el error y repetí esa tarea.
 
